@@ -1,0 +1,87 @@
+{
+  "source": "https://mmp.delaware.gov/Bids/",
+  "collected_at_utc": "2026-06-22T06:11:44.353152+00:00",
+  "statuses": [
+    "Open"
+  ],
+  "count": 52,
+  "bids": [
+    {
+      -"Id": 9225,
+      -"Title": "Carvel State Office Building - 11th Floor Main Generator Replacement",
+      -"ContractNumber": "OMB-MC1002000643",
+      "TruncContractNumber": null,
+      -"OpenDate": "2026-06-22",
+      "openDateTime": null,
+      -"DeadlineDate": "2026-07-30",
+      "deadlineDateTime": null,
+      "DeadlineTime": null,
+      -"AwardedDate": null,
+      -"AgencyCode": "OMB",
+      -"AgencyId": 0,
+      "DisplayWeb": null,
+      "DeldotEntry": false,
+      -"ContactEmail": "Brian.cotner@delaware.gov",
+      "UnspscCode": null,
+      "ContractMessage": null,
+      "unspscs": null,
+      "selectedUnspscIds": null,
+      "Awarded": null,
+      "NonAwardReason": null,
+      "bidUnspscCodes": null,
+      -"BidUnspscCodesString": "7215",
+      "solicitationTypeId": null,
+      "Type": null,
+      "solicitationTypeList": null,
+      "BidDocsToggle": false,
+      -"Status": "Open",
+      "Detail": {
+        "advertised_date": "6/22/2026",
+        "deadline_detail": "7/30/2026 at 1:00 PM Local Time",
+        "contact_detail": "Brian.cotner@delaware.gov",
+        "contact_email": "Brian.cotner@delaware.gov",
+        -"important_messages": [
+          "MANDATORY PRE-BID MEETING"
+        ],
+        "detail_url": "https://mmp.delaware.gov/Bids/Details/9225"
+      },
+      "Documents": [
+        {
+          -"name": "RFP - Public Works",
+          -"url": "https://bidcondocs.delaware.gov/OMB/OMB-MC1002000643-rfp.pdf"
+        },
+        {
+          "name": "Specifications",
+          "url": "https://bidcondocs.delaware.gov/OMB/OMB-MC1002000643-specs.pdf"
+        },
+        {
+          "name": "Wage Rates",
+          "url": "https://bidcondocs.delaware.gov/OMB/OMB-MC1002000643-wages.pdf"
+        },
+        {
+          "name": "Drawings",
+          "url": "https://bidcondocs.delaware.gov/OMB/OMB-MC100200643-dwgs..pdf"
+        }
+      ]
+    },
+
+
+Id
+Title
+ContractNumber
+OpenDate
+DeadlineDate
+AwardedDate
+AgencyCode
+AgencyId
+ContactEmail
+BidUnspscCodesString
+Status
+Detail.important_messages
+Documents.name
+Documents.url
+
+we can do seperate table for attachments(multiple exist)
+id(fk)
+name
+url(pk)
