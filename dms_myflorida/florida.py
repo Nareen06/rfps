@@ -98,6 +98,38 @@ def split_subject(subject):
     return "", subject.strip()
 
 
+def extract_solicitation_number(subject):
+    subject = repair_text(subject or "")
+
+    # Bracketed identifiers can appear before or after the descriptive title.
+    for match in re.finditer(r"\[([^\[\]]{2,60})\]", subject):
+        candidate = " ".join(match.group(1).split()).strip(" -:;")
+        if re.search(r"[A-Za-z]", candidate) and re.search(r"\d", candidate):
+            return candidate
+
+    # Explicit labels can safely support identifiers that contain only digits.
+    labelled = re.search(
+        r"(?i)\b(?:solicitation|bid|project|contract)\s*"
+        r"(?:number|no\.?|#|id)?\s*[:#-]?\s*"
+        r"([A-Z0-9][A-Z0-9._/-]*(?:\s+[A-Z0-9][A-Z0-9._/-]*){0,2})",
+        subject,
+    )
+    if labelled and re.search(r"\d", labelled.group(1)):
+        return " ".join(labelled.group(1).split()).strip(" -:;")
+
+    # Common procurement prefixes, including county PD identifiers.
+    prefixed = re.search(
+        r"(?i)\b(?:RFP|RFQ|ITB|IFB|RFI|LOI|CSP|PD)\s*"
+        r"(?:number|no\.?|#)?\s*[:#-]?\s*"
+        r"[A-Z0-9][A-Z0-9._/-]*\d[A-Z0-9._/-]*",
+        subject,
+    )
+    if prefixed:
+        return " ".join(prefixed.group(0).split()).strip(" -:;")
+
+    return ""
+
+
 def build_url(offset, limit):
     return f"{BASE_URL}/{offset}/{limit}"
 
@@ -254,6 +286,7 @@ def normalize_bulletin(item):
         "subject": subject,
         "agency": agency,
         "title": title,
+        "solicitationNumber": extract_solicitation_number(subject),
         "category": repair_text(item.get("category") or ""),
         "publishOn": repair_text(item.get("publishOn") or ""),
         "modified": repair_text(item.get("modified") or ""),
@@ -275,13 +308,7 @@ def record_search_text(record):
     return " ".join(
         [
             record.get("subject", ""),
-            record.get("agency", ""),
-            record.get("title", ""),
-            record.get("category", ""),
             record.get("message", ""),
-            record.get("publishOn", ""),
-            record.get("modified", ""),
-            record.get("created", ""),
         ]
     ).lower()
 
@@ -417,6 +444,7 @@ def build_pretty_json(data):
                 "subject": item["subject"],
                 "agency": item["agency"],
                 "title": item["title"],
+                "solicitationNumber": item.get("solicitationNumber") or "",
                 "category": item["category"],
                 "published": item["publishOn"],
                 "modified": item["modified"],
