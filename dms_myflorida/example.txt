@@ -27,3 +27,12 @@
         -"url": "https://procurement.opengov.com/portal/%7Bproject.government.code%7D"
       }
     }
+
+agency
+title
+category
+published
+modified
+dmsArchiveTime{utc}
+attachment{fileName, mimeType, downloadUrl}
+originalSite{url}
