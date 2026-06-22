@@ -1,0 +1,29 @@
+{
+  "source": "https://dms-media.ccplatform.net/api/page/data/bulletin/97609",
+  "fetchedCount": 1257,
+  "totalCount": 1257,
+  "projects": [
+    {
+      "subject": "Escambia County BOCC- BRICKYARD ROAD DRAINAGE IMPROVEMENTS CONSTRUCTION - CDBG-DR HS005 - ITB PD 25-26.061",
+      -"agency": "Escambia County BOCC- BRICKYARD ROAD DRAINAGE IMPROVEMENTS CONSTRUCTION",
+      -"title": "CDBG-DR HS005 - ITB PD 25-26.061",
+      -"category": "ITB",
+      -"published": "06/18/2026 3:29 PM",
+      -"modified": "06/18/2026 3:31 PM",
+      "dmsArchiveTime": {
+        -"utc": "2026-07-20T05:00:00+00:00",
+        "india": "2026-07-20T10:30:00+05:30"
+      },
+      "message": "BRICKYARD ROAD DRAINAGE IMPROVEMENTS CONSTRUCTION - CDBG-DR HS005 ITB PD 25-26.061",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_brickyard_road_drainage_improvements_construction_-_cdbg-dr_hs005_-_itb_pd_25-26.061",
+      "attachment": {
+        -"fileName": "PD 25-26.061 - Original Solicitation w Attachments.pdf",
+        "fileSize": 27441353,
+        -"mimeType": "application/pdf",
+        -"downloadUrl": "https://www.dms.myflorida.com/content/download/459374/9712816?version=1"
+      },
+      "originalSite": {
+        "text": "Click here for more information",
+        -"url": "https://procurement.opengov.com/portal/%7Bproject.government.code%7D"
+      }
+    }
