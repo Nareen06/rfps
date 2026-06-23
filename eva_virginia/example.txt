@@ -1,0 +1,94 @@
+{
+  "source": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp",
+  "api": "https://mvendor.cgieva.com/Vendor/public/solrconnect.jsp",
+  "collected_at_utc": "2026-06-23T07:18:00.418888+00:00",
+  "filters": {
+    "keyword": "",
+    "status": "",
+    "opportunity_type": "",
+    "exclude_opportunity_type": "Future Procurement (FPR)",
+    "agency_name": "",
+    "category": "",
+    "set_aside": "",
+    "sort": "pubdate desc,id desc",
+    "rows": 5,
+    "max_pages": 0,
+    "max_records": 5
+  },
+  "total_available": 289484,
+  "count": 5,
+  "opportunities": [
+    {
+      "id": "IV122844",
+      "external_id": "122844",
+      "internal_id": "122844",
+      "version": "1",
+      "app": "IV",
+      "doc_code": "IFB",
+      "doc_type": "SO",
+      "opportunity_type": "Invitation for Bids (IFB)",
+      "title": "COVB-26-101676 Landscape Maintenance for Oceana Blvd",
+      "description": "To provide complete and continuous vegetative maintenance for Oceana Blvd from Virginia Beach Blvd to General Booth Blvd.",
+      "status": "Open",
+      "agency": "LA86VABEACHCITY",
+      "agency_name": "City of Virginia Beach",
+      "department_code": "LA86VABEACHCITY",
+      "category": "Non-professional Services - Non-Technology",
+      "category_short_description": "Non-Prof Serv",
+      "set_aside": "",
+      "set_aside_description": "",
+      "published_at": "2026-06-22T18:51:06.220Z",
+      "close_date": "2026-07-22T15:00:00Z",
+      "expiration_date": "",
+      "future_procurement_estimated_issue_date": "",
+      "future_procurement_estimated_price_range": "",
+      "work_location": "City of Virginia Beach",
+      "commodity_codes": [],
+      "commodity_descriptions": [],
+      "contact_name": "",
+      "contact_email": "",
+      "contact_phone": "",
+      "raw": {
+        "externalid": "122844",
+        "internalid": "122844",
+        -"version": "1",
+        "doccd": "IFB",
+        "doctype": "SO",
+        -"agencyname": "City of Virginia Beach",
+        -"id": "IV122844",
+        -"app": "IV",
+        -"shortdesc": "COVB-26-101676 Landscape Maintenance for Oceana Blvd",
+        -"pubdate": "2026-06-22T18:51:06.220Z",
+        -"closedate": "2026-07-22T15:00:00Z",
+        -"workloc": "City of Virginia Beach",
+        -"doccddesc": "Invitation for Bids (IFB)",
+        "agency": "LA86VABEACHCITY",
+        "docdeptcd": "LA86VABEACHCITY",
+        -"status": "Open",
+        -"category": "Non-professional Services - Non-Technology",
+        -"longdesc": "To provide complete and continuous vegetative maintenance for Oceana Blvd from Virginia Beach Blvd to General Booth Blvd.",
+        -"buyername": "David Narr",
+        "buyerdeptname": " ",
+        "categoryshortdesc": "Non-Prof Serv",
+        -"lastupdatedate": "2026-06-22T22:51:39Z",
+        -"_version_": 1868739325857890304
+      },
+      -"detail_url": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO+Details&rfp_id_lot=122844&rfp_id_round=1"
+    }
+
+version
+agencyname
+id
+app
+shortdesc
+pubdate
+closedate
+workloc
+doccddesc
+status
+category
+longdesc
+buyername
+lastupdatedate
+_version_
+detail_url
