@@ -1,0 +1,84 @@
+{
+  "source": "https://www.emarketplace.state.pa.us/Search.aspx",
+  "endpoint_type": "ASP.NET WebForms HTTP endpoints returning HTML",
+  "search_endpoint": "https://www.emarketplace.state.pa.us/Search.aspx",
+  "detail_endpoint": "https://www.emarketplace.state.pa.us/Solicitations.aspx?SID={solicitation_number}",
+  "download_endpoint": "https://www.emarketplace.state.pa.us/FileDownload.aspx",
+  "collected_at": "2026-06-23T10:44:03.893894+00:00",
+  "solicitation_type_filter": "RFP",
+  "count": 11,
+  "detail_failure_count": 0,
+  "detail_failures": [],
+  "solicitations": [
+    {
+      -"solicitation_number": "6100065087",
+      -"type": "RFP",
+      -"title": "Psp Promotion Exams Corporal And Sergeant",
+      -"description": "The Pennsylvania State Police on behalf of the Commonwealth of Pennsylvania is seeking to obtain a Contractor for the development and administration of promotional examinations to identify the most suitable candidates for promotion to ranks of PSP Corporal and Sergeant.\nAll Offerors are required to create a user profile within our JAGGAER portal.\nAccess to the portal can be found at:\nhttps://solutions.sciquest.com/apps/Router/SupplierLogin?CustOrg=CommonwealthPA\nPROPOSALS WILL ONLY BE ACCEPTED ELECTRONICALLY THROUGH JAGGAER.\nTechnical support is available via Jaggaer at:\nhttps://www.jaggaer.com/supplier-support (web)\n(800) 233-1121 (phone)",
+      -"agency": "Pennsylvania State Police",
+      -"county": "Statewide",
+      -"amended_date": "06/16/26",
+      -"solicitation_start_date": "05/21/26",
+      -"solicitation_due_date": "07/02/26",
+      -"bid_opening_date": "7/2/2026 4:01:00 PM",
+      -"status": "Open",
+      -"contact_person": "Kelley Reese",
+      -"detail_url": "https://www.emarketplace.state.pa.us/Solicitations.aspx?SID=6100065087",
+      -"duration": "four (4) years",
+      -"solicitation_due_time": "4:00 PM",
+      -"solicitation_opening_date": "07/02/26",
+      -"solicitation_opening_time": "4:01 PM",
+      "opening_location": "Non Public Bid Opening",
+      -"number_of_addendums": "1",
+      -"files": [
+        {
+          -"name": "Cost Submittal_PSP Promotion Exams for the Ranks of Sergeant and Corporal.xlsx",
+          -"download_url": "https://www.emarketplace.state.pa.us/FileDownload.aspx?file=6100065087/Solicitation_0.xlsx&OriginalFileName=Cost Submittal_PSP Promotion Exams for the Ranks of Sergeant and Corporal.xlsx"
+        },
+        {
+          "name": "Terms and Conditions_PSP Promotion Exams for the Ranks of Sergeant and Corporal.pdf",
+          "download_url": "https://www.emarketplace.state.pa.us/FileDownload.aspx?file=6100065087/Solicitation_1.pdf&OriginalFileName=Terms and Conditions_PSP Promotion Exams for the Ranks of Sergeant and Corporal.pdf"
+        },
+        {
+          "name": "Technical Submittal_PSP Promotion Exams for the Ranks of Sergeant and Corporal.pdf",
+          "download_url": "https://www.emarketplace.state.pa.us/FileDownload.aspx?file=6100065087/Solicitation_2.pdf&OriginalFileName=Technical Submittal_PSP Promotion Exams for the Ranks of Sergeant and Corporal.pdf"
+        },
+        {
+          "name": "Description_JAGGAER_PSP Promotion Exams for the Ranks of Sergeant and Corporal.pdf",
+          "download_url": "https://www.emarketplace.state.pa.us/FileDownload.aspx?file=6100065087/Solicitation_3.pdf&OriginalFileName=Description_JAGGAER_PSP Promotion Exams for the Ranks of Sergeant and Corporal.pdf"
+        },
+        {
+          "name": "Addendum No. 1.pdf",
+          "download_url": "https://www.emarketplace.state.pa.us/FileDownload.aspx?file=6100065087/Solicitation_4.pdf&OriginalFileName=Addendum No. 1.pdf"
+        },
+        {
+          "name": "Addendum No. 2.pdf",
+          "download_url": "https://www.emarketplace.state.pa.us/FileDownload.aspx?file=6100065087/Solicitation_5.pdf&OriginalFileName=Addendum No. 2.pdf"
+        },
+        {
+          "name": "Addendum No. 3.pdf",
+          "download_url": "https://www.emarketplace.state.pa.us/FileDownload.aspx?file=6100065087/Solicitation_6.pdf&OriginalFileName=Addendum No. 3.pdf"
+        }
+      ]
+    },
+
+
+solicitation_number
+type
+title
+description
+agency
+county
+amended_date
+solicitation_start_date
+solicitation_due_date
+bid_opening_date
+status
+contact_person
+detail_url
+duration
+solicitation_due_time
+solicitation_opening_date
+solicitation_opening_time
+number_of_addendums
+files{name, download_url}
