@@ -76,10 +76,9 @@
       -"detail_url": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO+Details&rfp_id_lot=122844&rfp_id_round=1"
     }
 
-version
+opportunity_type
 agencyname
 id
-app
 shortdesc
 pubdate
 closedate
@@ -90,5 +89,5 @@ category
 longdesc
 buyername
 lastupdatedate
-_version_
+version
 detail_url
