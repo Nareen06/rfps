@@ -1,0 +1,111 @@
+{
+  "source": "https://www.txsmartbuy.gov/esbd",
+  "collected_at_utc": "2026-06-23T05:14:41.039005+00:00",
+  "filters": {
+    "status": "posted",
+    "agency_number": "",
+    "keyword": "",
+    "solicitation_id": "",
+    "nigp": "",
+    "start_date": "",
+    "end_date": ""
+  },
+  "total_available": 698,
+  "count": 48,
+  "detail_failure_count": 0,
+  "detail_failures": [],
+  "solicitations": [
+    {
+      "internalid": "431009",
+      "title": "District Fundraiser Services",
+      "solicitationId": "25-07-2020R-RFP",
+      "responseDue": "6/30/2026",
+      "responseTime": "10:00 AM",
+      "agencyNumber": "S6012",
+      "agencyName": "Cypress-Fairbanks ISD - S6012",
+      "status": "1",
+      "statusName": "Posted",
+      "postingDate": "7/1/2025",
+      "cancelledDate": "",
+      "created": "6/25/2025 11:09 am",
+      "lastModified": "6/23/2026 12:02 am",
+      "nigpCodes": "94650-Fund Raising Services;",
+      "repostURL": "",
+      "url": "https://cfisdbid.ionwave.net/Event/BuyerBidList.aspx?e=E~MeoqV5oR897WY5xkYrdCa-TBaB28e1kQqp5g7rqvw",
+      "detail_url": "https://www.txsmartbuy.gov/esbd/25-07-2020R-RFP",
+      "detail": {
+        -"internalid": "431009",
+        -"title": "District Fundraiser Services",
+        -"solicitationId": "25-07-2020R-RFP",
+        -"responseDue": "6/30/2026",
+        -"responseTime": "10:00 AM",
+        -"agencyNumber": "S6012",
+        -"agencyName": "Cypress-Fairbanks ISD - S6012",
+        -"status": "1",
+        -"statusName": "Posted",
+        -"postingDate": "7/1/2025",
+        "cancelledDate": "",
+        -"created": "6/25/2025 11:09 am",
+        -"lastModified": "6/23/2026 12:02 am",
+        "nigpCodes": "94650-Fund Raising Services;",
+        "repostURL": "",
+        -"url": "https://cfisdbid.ionwave.net/Event/BuyerBidList.aspx?e=E~MeoqV5oR897WY5xkYrdCa-TBaB28e1kQqp5g7rqvw",
+        -"postingRequirement": "3",
+        -"postingRequirementText": "21+ Days for Solicitation Notice",
+        "user": "428853",
+        "description": "<div style=\"margin: 0px; padding: 0px; outline: none; color: rgb(68, 68, 68); font-family: Verdana, Arial, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);\"><table width=\"100%\" style=\"margin: 0px; padding: 0px; outline: none; border-spacing: 0px; border-style: none;\"><tbody style=\"margin: 0px; padding: 0px; outline: none;\"><tr style=\"margin: 0px; padding: 0px; outline: none;\"><td style=\"margin: 0px; padding: 0px; outline: none; vertical-align: top;\"><b style=\"margin: 0px; padding: 0px; outline: none;\"><a href=\"https://cfisdbid.ionwave.net/Event/Common/Attribute/EventAttributeTypeSpecialEdit.aspx?e=FDZauFxM4cUr33yCi8ufnP9WJmZB7jrRYgbXFPvEYQhvJxMg8DP-mDDCS6OsPbI2uJ5Z1nTCS~OHiD5b7YBk2A\" style=\"margin: 0px; padding: 0px; outline: none; color: rgb(37, 107, 218);\">General &amp; Special Conditions</a></b></td></tr><tr style=\"margin: 0px; padding: 0px; outline: none;\"><td style=\"margin: 0px; padding: 0px; outline: none; vertical-align: top;\"><div style=\"margin: 0px; padding: 0px; outline: none;\"><strong style=\"margin: 0px; padding: 0px; outline: none;\">1.0 Scope of Solicitation</strong>&nbsp;– It is the intention of the Cypress-Fairbanks Independent School District (CFISD, the District and/or Owner) to establish an annual contract, on an as needed basis, for:</div><div style=\"margin: 0px; padding: 0px; outline: none;\">&nbsp;</div><div style=\"margin: 0px; padding: 0px; outline: none;\"><strong style=\"margin: 0px; padding: 0px; outline: none;\">District Fundraiser Services</strong></div></td></tr></tbody></table></div>",
+        -"contactName": "Haidy Beshay",
+        -"contactNumber": "(281) 897-4583",
+        -"contactEmail": "procurement@cfisd.net",
+        "bidResponseEmail": "",
+        "bidResponseURL": "",
+        "optOut": false,
+        "statutoryExemption": "",
+        "hasOMR": "",
+        "value": "1.00",
+        "approved": true,
+        "addendum": "",
+        "goodsOrService": "",
+        "createdFromPOD": false,
+        "stateAgencyCert": "",
+        "stateAgencyCertText": "",
+        "ctcdCertNum": "",
+        "cancellationNote": "",
+        "noAwardNote": "",
+        "planRepost": false,
+        "optOutFlag": false,
+        "awardies": [],
+        "userFollows": false,
+        "notes": [],
+        -"attachments": [
+          {
+            -"id": "431009",
+            "fileId": "31529207",
+            "fileName": "ESBD_431009_1750868328718_ESBD - CFISD Procurement Services - Solicitation Portal.pdf",
+            "fileURL": "/core/media/media.nl?id=31529207&c=852252&h=qSXbO204SCqKUypdiF9AA74fS7mtHKM4Bom2fny6pt5CgP55&_xt=.pdf",
+            "fileDescription": "CFISD Procurement Services - Solicitation Portal ",
+            -"download_url": "https://www.txsmartbuy.gov/core/media/media.nl?id=31529207&c=852252&h=qSXbO204SCqKUypdiF9AA74fS7mtHKM4Bom2fny6pt5CgP55&_xt=.pdf"
+          }
+        ],
+        "detail_url": "https://www.txsmartbuy.gov/esbd/25-07-2020R-RFP"
+      }
+    },
+
+internalid
+title
+solicitationId
+responseDue
+responseTime
+agencyNumber
+agencyName
+status
+statusName
+postingDate
+created
+lastModified
+url
+postingRequirement
+contactName
+contactNumber
+contactEmail
+attachments{id, download_url}

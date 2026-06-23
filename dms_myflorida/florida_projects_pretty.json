@@ -1,0 +1,2665 @@
+{
+  "source": "https://dms-media.ccplatform.net/api/page/data/bulletin/97609",
+  "query": "",
+  "filters": {
+    "category": "",
+    "agency": "",
+    "include": "",
+    "require": "",
+    "exclude": ""
+  },
+  "scannedCount": 100,
+  "fetchedCount": 100,
+  "totalCount": 1257,
+  "projects": [
+    {
+      "subject": "Escambia County BOCC- BRICKYARD ROAD DRAINAGE IMPROVEMENTS CONSTRUCTION - CDBG-DR HS005 - ITB PD 25-26.061",
+      "agency": "Escambia County BOCC- BRICKYARD ROAD DRAINAGE IMPROVEMENTS CONSTRUCTION",
+      "title": "CDBG-DR HS005 - ITB PD 25-26.061",
+      "solicitationNumber": "PD 25-26.061",
+      "category": "ITB",
+      "published": "06/18/2026 3:29 PM",
+      "modified": "06/18/2026 3:31 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-20T05:00:00+00:00",
+        "india": "2026-07-20T10:30:00+05:30"
+      },
+      "message": "BRICKYARD ROAD DRAINAGE IMPROVEMENTS CONSTRUCTION - CDBG-DR HS005 ITB PD 25-26.061",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_brickyard_road_drainage_improvements_construction_-_cdbg-dr_hs005_-_itb_pd_25-26.061",
+      "attachment": {
+        "fileName": "PD 25-26.061 - Original Solicitation w Attachments.pdf",
+        "fileSize": 27441353,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/459374/9712816?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0001_PD 25-26.061 - Original Solicitation w Attachments.pdf"
+      },
+      "originalSite": {
+        "text": "Click here for more information",
+        "url": "https://procurement.opengov.com/portal/%7Bproject.government.code%7D"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County Board of County Commissioners (BOCC) – Lobbyist - State and Federal - RFP PD 25-26.075",
+      "agency": "Escambia County Board of County Commissioners (BOCC) – Lobbyist",
+      "title": "State and Federal - RFP PD 25-26.075",
+      "solicitationNumber": "PD 25-26.075",
+      "category": "RFP",
+      "published": "06/18/2026 3:26 PM",
+      "modified": "06/18/2026 3:28 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-29T14:30:00+00:00",
+        "india": "2026-06-29T20:00:00+05:30"
+      },
+      "message": "Lobbyist - State and Federal RFP PD 25-26.075",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_board_of_county_commissioners_bocc_lobbyist_-_state_and_federal_-_rfp_pd_25-26.075",
+      "attachment": {
+        "fileName": "PD 25-26.075 Solicitation.pdf",
+        "fileSize": 412993,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/459373/9712808?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0002_PD 25-26.075 Solicitation.pdf"
+      },
+      "originalSite": {
+        "text": "Click here for more information",
+        "url": "https://procurement.opengov.com/portal/%7bproject.government.code%7d"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County - Hypochlorous Acid Generator - RFP PD 25-26.083",
+      "agency": "Escambia County",
+      "title": "Hypochlorous Acid Generator - RFP PD 25-26.083",
+      "solicitationNumber": "PD 25-26.083",
+      "category": "RFP",
+      "published": "06/18/2026 3:22 PM",
+      "modified": "06/18/2026 3:25 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-09T15:30:00+00:00",
+        "india": "2026-07-09T21:00:00+05:30"
+      },
+      "message": "Hypochlorous Acid Generator RFP PD 25-26.083",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_-_hypochlorous_acid_generator_-_rfp_pd_25-26.083",
+      "attachment": {
+        "fileName": "PD 25-26.083-Original Solicitation Package.pdf",
+        "fileSize": 627750,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/459372/9712800?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0003_PD 25-26.083-Original Solicitation Package.pdf"
+      },
+      "originalSite": {
+        "text": "Click here for more information",
+        "url": "https://procurement.opengov.com/portal/%7bproject.government.code%7d"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of St. Augustine - PLAN REVIEW AND/OR INSPECTION SERVICES - RFP #26020",
+      "agency": "The City of St. Augustine",
+      "title": "PLAN REVIEW AND/OR INSPECTION SERVICES - RFP #26020",
+      "solicitationNumber": "RFP #26020",
+      "category": "RFP",
+      "published": "06/18/2026 2:27 PM",
+      "modified": "06/18/2026 2:34 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-16T06:00:00+00:00",
+        "india": "2026-07-16T11:30:00+05:30"
+      },
+      "message": "PLAN REVIEW AND/OR INSPECTION SERVICES RFP #26020",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_st._augustine_-_plan_review_and_or_inspection_services_-_rfp_26020",
+      "attachment": {
+        "fileName": "Legal Notice.pdf",
+        "fileSize": 170956,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/459371/9712792?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0004_Legal Notice.pdf"
+      },
+      "originalSite": {
+        "text": "Click here for more information",
+        "url": "https://procurement.opengov.com/portal/staugustine"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of St. Augustine - Tree Trimming, Removal and Related Services - RFB 26014",
+      "agency": "The City of St. Augustine",
+      "title": "Tree Trimming, Removal and Related Services - RFB 26014",
+      "solicitationNumber": "",
+      "category": "RFB",
+      "published": "06/18/2026 2:19 PM",
+      "modified": "06/18/2026 2:25 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-30T06:00:00+00:00",
+        "india": "2026-07-30T11:30:00+05:30"
+      },
+      "message": "Tree Trimming, Removal and Related Services RFB 26014",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_st._augustine_-_tree_trimming_removal_and_related_services_-_rfb_26014",
+      "attachment": {
+        "fileName": "26014 Legal Notice (No Header).pdf",
+        "fileSize": 155645,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/459369/9712781?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0005_26014 Legal Notice (No Header).pdf"
+      },
+      "originalSite": {
+        "text": "Click here for more information",
+        "url": "https://procurement.opengov.com/portal/staugustine/projects/245962"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of St. Cloud - Lift Station Installation and Rehabilitation Services - ITB 2026-071",
+      "agency": "City of St. Cloud",
+      "title": "Lift Station Installation and Rehabilitation Services - ITB 2026-071",
+      "solicitationNumber": "ITB 2026-071",
+      "category": "ITB",
+      "published": "06/18/2026 2:14 PM",
+      "modified": "06/18/2026 2:17 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-21T14:00:00+00:00",
+        "india": "2026-07-21T19:30:00+05:30"
+      },
+      "message": "Lift Station Installation and Rehabilitation Services ITB 2026-071",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_st._cloud_-_lift_station_installation_and_rehabilitation_services_-_itb_2026-071",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for more information",
+        "url": "https://procurement.opengov.com/portal/stcloud/projects/274827"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Office of Purchasing - West Highway 4 Resurfacing and Roadway Improvements - ITB PD 25-26.085",
+      "agency": "Escambia County BOCC- Office of Purchasing",
+      "title": "West Highway 4 Resurfacing and Roadway Improvements - ITB PD 25-26.085",
+      "solicitationNumber": "PD 25-26.085",
+      "category": "ITB",
+      "published": "06/18/2026 2:10 PM",
+      "modified": "06/18/2026 2:13 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-16T13:00:00+00:00",
+        "india": "2026-07-16T18:30:00+05:30"
+      },
+      "message": "West Highway 4 Resurfacing and Roadway Improvements ITB PD 25-26.085",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_office_of_purchasing_-_west_highway_4_resurfacing_and_roadway_improvements_-_itb_pd_25-26.085",
+      "attachment": {
+        "fileName": "PD 25-26.085-Original Solicitation Package.pdf",
+        "fileSize": 18300185,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/459367/9712765?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0007_PD 25-26.085-Original Solicitation Package.pdf"
+      },
+      "originalSite": {
+        "text": "Click here for more information",
+        "url": "https://procurement.opengov.com/portal/%7bproject.government.code%7d"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Office of Purchasing - Diesel and Gasoline Fuel Delivery - ITB PD 25-26.082",
+      "agency": "Escambia County BOCC- Office of Purchasing",
+      "title": "Diesel and Gasoline Fuel Delivery - ITB PD 25-26.082",
+      "solicitationNumber": "PD 25-26.082",
+      "category": "ITB",
+      "published": "06/12/2026 11:52 AM",
+      "modified": "06/12/2026 11:54 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-26T13:00:00+00:00",
+        "india": "2026-06-26T18:30:00+05:30"
+      },
+      "message": "Diesel and Gasoline Fuel Delivery ITB PD 25-26.082",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_office_of_purchasing_-_diesel_and_gasoline_fuel_delivery_-_itb_pd_25-26.082",
+      "attachment": {
+        "fileName": "PD 25-26.082-Solicitation.pdf",
+        "fileSize": 577153,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458987/9703012?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0008_PD 25-26.082-Solicitation.pdf"
+      },
+      "originalSite": {
+        "text": "Click Here For More Information",
+        "url": "https://procurement.opengov.com/portal/escambiacountyfl/projects/273173"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Department of Financial Services (DFS) - Statewide Response Team Vehicle Equipment Installation - RFP-16255",
+      "agency": "Department of Financial Services (DFS)",
+      "title": "Statewide Response Team Vehicle Equipment Installation - RFP-16255",
+      "solicitationNumber": "RFP-16255",
+      "category": "RFP",
+      "published": "06/12/2026 11:48 AM",
+      "modified": "06/12/2026 11:51 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-31T07:00:00+00:00",
+        "india": "2026-07-31T12:30:00+05:30"
+      },
+      "message": "Statewide Response Team Vehicle Equipment Installation RFP-16255",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/department_of_financial_services_dfs_-_statewide_response_team_vehicle_equipment_installation_-_rfp-16255",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click Here For More Information",
+        "url": "https://vendor.myfloridamarketplace.com/search/bids/detail/16255"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Office of Purchasing - SHIP - HOME Demo and Replacement House – 3011 Dr. MLK, Jr Dr. Pensacola, FL 32503 - ITB PD 25-26.079",
+      "agency": "Escambia County BOCC- Office of Purchasing",
+      "title": "SHIP - HOME Demo and Replacement House – 3011 Dr. MLK, Jr Dr. Pensacola, FL 32503 - ITB PD 25-26.079",
+      "solicitationNumber": "PD 25-26.079",
+      "category": "ITB",
+      "published": "06/12/2026 11:43 AM",
+      "modified": "06/12/2026 11:46 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-13T16:00:00+00:00",
+        "india": "2026-07-13T21:30:00+05:30"
+      },
+      "message": "HOME Demo and Replacement House – 3011 Dr. MLK, Jr Dr. Pensacola, FL 32503 ITB PD 25-26.079",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_office_of_purchasing_-_ship_-_home_demo_and_replacement_house_3011_dr._mlk_jr_dr._pensacola_fl_32503_-_itb_pd_25-26.079",
+      "attachment": {
+        "fileName": "PD25-26.079 Invitation to Bid Packet.pdf",
+        "fileSize": 626838,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458985/9702996?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0010_PD25-26.079 Invitation to Bid Packet.pdf"
+      },
+      "originalSite": {
+        "text": "Click Here For More Information",
+        "url": "https://secure.procurenow.com/portal/escambiacountyfl"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Office of Purchasing - SHIP - HOME Demo and Replacement House - 519 Chaseville - ITB PD 25-26.080",
+      "agency": "Escambia County BOCC- Office of Purchasing",
+      "title": "SHIP - HOME Demo and Replacement House - 519 Chaseville - ITB PD 25-26.080",
+      "solicitationNumber": "PD 25-26.080",
+      "category": "ITB",
+      "published": "06/12/2026 11:38 AM",
+      "modified": "06/12/2026 11:40 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-13T15:30:00+00:00",
+        "india": "2026-07-13T21:00:00+05:30"
+      },
+      "message": "SHIP - HOME Demo and Replacement House - 519 Chaseville ITB PD 25-26.080",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_office_of_purchasing_-_ship_-_home_demo_and_replacement_house_-_519_chaseville_-_itb_pd_25-26.080",
+      "attachment": {
+        "fileName": "PD 25-26.080 SHIP - HOME Demo and Replacement House - 519 Chaseville.pdf",
+        "fileSize": 613581,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458982/9702982?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0011_PD 25-26.080 SHIP - HOME Demo and Replacement House - 519 Chaseville.pdf"
+      },
+      "originalSite": {
+        "text": "Click Here For More Information",
+        "url": "https://secure.procurenow.com/portal/escambiacountyfl"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Office of Purchasing - HOME Demo and Replacement House - 5813 Maxine - ITB  25-26.081 SHIP",
+      "agency": "Escambia County BOCC- Office of Purchasing",
+      "title": "HOME Demo and Replacement House - 5813 Maxine - ITB  25-26.081 SHIP",
+      "solicitationNumber": "ITB 25-26.081",
+      "category": "ITB",
+      "published": "06/12/2026 11:34 AM",
+      "modified": "06/12/2026 11:36 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-13T15:00:00+00:00",
+        "india": "2026-07-13T20:30:00+05:30"
+      },
+      "message": "HOME Demo and Replacement House - 5813 Maxine ITB 25-26.081 SHIP",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_office_of_purchasing_-_home_demo_and_replacement_house_-_5813_maxine_-_itb_25-26.081_ship",
+      "attachment": {
+        "fileName": "PD 25-26.081 SHIP - HOME Demo and Replacement House - 5813 Maxine.pdf",
+        "fileSize": 614484,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458981/9702974?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0012_PD 25-26.081 SHIP - HOME Demo and Replacement House - 5813 Maxine.pdf"
+      },
+      "originalSite": {
+        "text": "Click Here For More Information",
+        "url": "https://procurement.opengov.com/portal/%7Bproject.government.code%7D"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Office of Purchasing - Project Name: CDBG-DR - Olive Road Street Improvement Project - Phase 1 HS005 - PD 25-26.072",
+      "agency": "Escambia County BOCC- Office of Purchasing",
+      "title": "Project Name: CDBG-DR - Olive Road Street Improvement Project - Phase 1 HS005 - PD 25-26.072",
+      "solicitationNumber": "PD 25-26.072",
+      "category": "ITB",
+      "published": "06/12/2026 11:29 AM",
+      "modified": "06/12/2026 11:33 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-13T14:00:00+00:00",
+        "india": "2026-07-13T19:30:00+05:30"
+      },
+      "message": "Project Name: CDBG-DR - Olive Road Street Improvement Project - Phase 1 HS005 ITB PD 25-26.072",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_office_of_purchasing_-_project_name_cdbg-dr_-_olive_road_street_improvement_project_-_phase_1_hs005_-_pd_25-26.072",
+      "attachment": {
+        "fileName": "PD 25-26.072 - CDBG-DR Olive Road Street Improvement Project - Phase I Construction - HS005.pdf",
+        "fileSize": 617367,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458980/9702966?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0013_PD 25-26.072 - CDBG-DR Olive Road Street Improvement Project - Phase I Construction - HS005.pdf"
+      },
+      "originalSite": {
+        "text": "Click Here For More Information",
+        "url": "https://procurement.opengov.com/portal/%7bproject.government.code%7d"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Office of Purchasing - Artificial Reef Construction Large Vessel Reef in Escambia SE or LAARS E Reef Site, AR2608 - RFP PD 25-26.077",
+      "agency": "Escambia County BOCC- Office of Purchasing",
+      "title": "Artificial Reef Construction Large Vessel Reef in Escambia SE or LAARS E Reef Site, AR2608 - RFP PD 25-26.077",
+      "solicitationNumber": "PD 25-26.077",
+      "category": "RFP",
+      "published": "06/11/2026 9:41 AM",
+      "modified": "06/11/2026 9:45 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-09T14:00:00+00:00",
+        "india": "2026-07-09T19:30:00+05:30"
+      },
+      "message": "Artificial Reef Construction Large Vessel Reef in Escambia SE or LAARS E Reef Site, AR2608 RFP PD 25-26.077",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_office_of_purchasing_-_artificial_reef_construction_large_vessel_reef_in_escambia_se_or_laars_e_reef_site_ar2608_-_rfp_pd_25",
+      "attachment": {
+        "fileName": "PD 25-26.077-Original Solictation Full Packet.pdf",
+        "fileSize": 5331587,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458915/9701610?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0014_PD 25-26.077-Original Solictation Full Packet.pdf"
+      },
+      "originalSite": {
+        "text": "Sign up here",
+        "url": "https://procurement.opengov.com/portal/%7bproject.government.code%7d"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County - MYRTLE GROVE ELEMENTARY OUTFALL - ITB PD 25-26.078",
+      "agency": "Escambia County",
+      "title": "MYRTLE GROVE ELEMENTARY OUTFALL - ITB PD 25-26.078",
+      "solicitationNumber": "PD 25-26.078",
+      "category": "ITB",
+      "published": "06/11/2026 9:27 AM",
+      "modified": "06/11/2026 9:29 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-09T13:00:00+00:00",
+        "india": "2026-07-09T18:30:00+05:30"
+      },
+      "message": "MYRTLE GROVE ELEMENTARY OUTFALL ITB PD 25-26.078",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_-_myrtle_grove_elementary_outfall_-_itb_pd_25-26.078",
+      "attachment": {
+        "fileName": "PD 25-26.078-Original Solicitation Packet.pdf",
+        "fileSize": 4095813,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458914/9701602?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0015_PD 25-26.078-Original Solicitation Packet.pdf"
+      },
+      "originalSite": {
+        "text": "Sign Up Here",
+        "url": "https://procurement.opengov.com/portal/%7bproject.government.code%7d"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Bay County Board of County Commissioners - Liquid Sodium Hypochlorite - ITB NO: 26-37",
+      "agency": "The Bay County Board of County Commissioners",
+      "title": "Liquid Sodium Hypochlorite - ITB NO: 26-37",
+      "solicitationNumber": "ITB NO: 26-37",
+      "category": "ITB",
+      "published": "06/11/2026 9:23 AM",
+      "modified": "06/11/2026 9:25 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-14T06:00:00+00:00",
+        "india": "2026-07-14T11:30:00+05:30"
+      },
+      "message": "Liquid Sodium Hypochlorite ITB NO: 26-37",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_bay_county_board_of_county_commissioners_-_liquid_sodium_hypochlorite_-_itb_no_26-37",
+      "attachment": {
+        "fileName": "26-37 Legal Ad.doc",
+        "fileSize": 31232,
+        "mimeType": "application/msword",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458913/9701594?version=1"
+      },
+      "originalSite": {
+        "text": "Sign Up Here",
+        "url": "https://procurement.opengov.com/signup"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Western Destin Dune Vegetation Project-FEMA - ITB TDD 62-26",
+      "agency": "Western Destin Dune Vegetation Project-FEMA",
+      "title": "ITB TDD 62-26",
+      "solicitationNumber": "",
+      "category": "ITB",
+      "published": "06/09/2026 9:17 AM",
+      "modified": "06/09/2026 9:18 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-08T07:00:00+00:00",
+        "india": "2026-07-08T12:30:00+05:30"
+      },
+      "message": "Western Destin Dune Vegetation Project-FEMA ITB TDD 62-26",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/western_destin_dune_vegetation_project-fema_-_itb_tdd_62-26",
+      "attachment": {
+        "fileName": "ITB TDD 62-26.NTR.pdf",
+        "fileSize": 80068,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458688/9696047?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0017_ITB TDD 62-26.NTR.pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://procurement.opengov.com/portal/myokaloosa"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of St. Cloud - Minnesota Avenue Parking Lot - ITB 2026-011",
+      "agency": "City of St. Cloud",
+      "title": "Minnesota Avenue Parking Lot - ITB 2026-011",
+      "solicitationNumber": "ITB 2026-011",
+      "category": "ITB",
+      "published": "06/09/2026 9:14 AM",
+      "modified": "06/09/2026 9:15 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-09T06:00:00+00:00",
+        "india": "2026-07-09T11:30:00+05:30"
+      },
+      "message": "Minnesota Avenue Parking Lot ITB 2026-011",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_st._cloud_-_minnesota_avenue_parking_lot_-_itb_2026-011",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://procurement.opengov.com/portal/stcloud/projects/271809"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of St. Cloud - Facility Condition Assessment - RFP 2026-002",
+      "agency": "City of St. Cloud",
+      "title": "Facility Condition Assessment - RFP 2026-002",
+      "solicitationNumber": "RFP 2026-002",
+      "category": "RFP",
+      "published": "06/09/2026 9:11 AM",
+      "modified": "06/09/2026 9:13 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-09T14:00:00+00:00",
+        "india": "2026-07-09T19:30:00+05:30"
+      },
+      "message": "Facility Condition Assessment RFP 2026-002",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_st._cloud_-_facility_condition_assessment_-_rfp_2026-002",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://procurement.opengov.com/portal/stcloud/projects/270003"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Panama City - CDBG-DR Hometown Revitalization Program – Truesdell Facility - [PC26-023]",
+      "agency": "City of Panama City",
+      "title": "CDBG-DR Hometown Revitalization Program – Truesdell Facility - [PC26-023]",
+      "solicitationNumber": "PC26-023",
+      "category": "",
+      "published": "06/09/2026 9:06 AM",
+      "modified": "06/09/2026 9:09 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-08T14:00:00+00:00",
+        "india": "2026-07-08T19:30:00+05:30"
+      },
+      "message": "CDBG-DR Hometown Revitalization Program – Truesdell Facility [PC26-023]",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_panama_city_-_cdbg-dr_hometown_revitalization_program_truesdell_facility_-_pc26-023",
+      "attachment": {
+        "fileName": "PC26-023 CDGB-DR HRP - Truesdell Facility - Advertisement.pdf",
+        "fileSize": 1336335,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458685/9696023?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0020_PC26-023 CDGB-DR HRP - Truesdell Facility - Advertisement.pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://www.panamacity.gov/bids.aspx?bidID=545"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "CITY OF MELBOURNE PROCUREMENT DIVISION - LEAD SERVICE LINE INVENTORY FIELD INVESTIGATIONS- FEMA - ITB B26016C-0-2026/CM",
+      "agency": "CITY OF MELBOURNE PROCUREMENT DIVISION",
+      "title": "LEAD SERVICE LINE INVENTORY FIELD INVESTIGATIONS- FEMA - ITB B26016C-0-2026/CM",
+      "solicitationNumber": "ITB B26016C-0-2026/CM",
+      "category": "ITB",
+      "published": "06/05/2026 2:28 PM",
+      "modified": "06/05/2026 2:32 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-21T07:00:00+00:00",
+        "india": "2026-07-21T12:30:00+05:30"
+      },
+      "message": "LEAD SERVICE LINE INVENTORY FIELD INVESTIGATIONS- FEMA ITB B26016C-0-2026/CM",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_melbourne_procurement_division_-_lead_service_line_inventory_field_investigations-_fema_-_itb_b26016c-0-2026_cm",
+      "attachment": {
+        "fileName": "Final ITB - Lead Service Line Inventory Field Investigations - Term Contract 1.pdf",
+        "fileSize": 4223756,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458289/9684866?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0021_Final ITB - Lead Service Line Inventory Field Investigations - Term Contract 1.pdf"
+      },
+      "originalSite": {
+        "text": "",
+        "url": ""
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Board of County Commissioners for Bay County - Misdemeanor Probation Services - RFQ NO: 26-40",
+      "agency": "The Board of County Commissioners for Bay County",
+      "title": "Misdemeanor Probation Services - RFQ NO: 26-40",
+      "solicitationNumber": "RFQ NO: 26-40",
+      "category": "RFQ",
+      "published": "06/04/2026 10:15 AM",
+      "modified": "06/04/2026 10:19 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-07T06:00:00+00:00",
+        "india": "2026-07-07T11:30:00+05:30"
+      },
+      "message": "Misdemeanor Probation Services RFQ NO: 26-40",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_board_of_county_commissioners_for_bay_county_-_misdemeanor_probation_services_-_rfq_no_26-40",
+      "attachment": {
+        "fileName": "26-40 Legal Ad.doc",
+        "fileSize": 31744,
+        "mimeType": "application/msword",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458208/9683246?version=1"
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://procurement.opengov.com/signup"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Fort Walton Beach - CHLORINE SUPPLIES - ANNUAL BID - 26-013 ITB",
+      "agency": "City of Fort Walton Beach",
+      "title": "CHLORINE SUPPLIES - ANNUAL BID - 26-013 ITB",
+      "solicitationNumber": "26-013 ITB",
+      "category": "ITB",
+      "published": "06/04/2026 10:07 AM",
+      "modified": "06/04/2026 10:14 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-09T06:00:00+00:00",
+        "india": "2026-07-09T11:30:00+05:30"
+      },
+      "message": "CHLORINE SUPPLIES - ANNUAL BID 26-013 ITB",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_fort_walton_beach_-_chlorine_supplies_-_annual_bid_-_26-013_itb",
+      "attachment": {
+        "fileName": "Advertisement; Final; 2026 06-02.pdf",
+        "fileSize": 115503,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458204/9683217?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0023_Advertisement; Final; 2026 06-02.pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://www.bidnetdirect.com/florida/solicitations/open-bids/26-013-ITB-CHLORINE-SUPPLIES-ANNUAL-BID/0000426404?purchasingGroupId=8408751&origin=2"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Hillsborough County Sheriff’s Office Tampa, Florida - Professional Architectural & Engineering Design Services for the Renovation  of HCSO's Training Academy - RFQ 2026-003",
+      "agency": "Hillsborough County Sheriff’s Office Tampa, Florida",
+      "title": "Professional Architectural & Engineering Design Services for the Renovation  of HCSO's Training Academy - RFQ 2026-003",
+      "solicitationNumber": "RFQ 2026-003",
+      "category": "RFQ",
+      "published": "06/04/2026 9:49 AM",
+      "modified": "06/04/2026 10:03 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-08T07:00:00+00:00",
+        "india": "2026-07-08T12:30:00+05:30"
+      },
+      "message": "Professional Architectural & Engineering Design Services for the Renovation of HCSO's Training Academy RFQ 2026-003",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/hillsborough_county_sheriff_s_office_tampa_florida_-_professional_architectural_engineering_design_services_for_the_renovation_of_hcso_s_traini",
+      "attachment": {
+        "fileName": "OSD and HCFL Advertisement for 6.3.2026.pdf",
+        "fileSize": 789483,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458203/9683209?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0024_OSD and HCFL Advertisement for 6.3.2026.pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://www.demandstar.com/app/agencies/florida/hillsborough-county-sheriff-s-office/procurement-opportunities/2edd7caf-d5b9-4fbd-97d1-e8820498d3ef/"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of St. Cloud - Pest Control Services - ITB 2026-059",
+      "agency": "The City of St. Cloud",
+      "title": "Pest Control Services - ITB 2026-059",
+      "solicitationNumber": "ITB 2026-059",
+      "category": "ITB",
+      "published": "06/01/2026 11:18 AM",
+      "modified": "06/01/2026 11:33 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-02T06:00:00+00:00",
+        "india": "2026-07-02T11:30:00+05:30"
+      },
+      "message": "Pest Control Services ITB 2026-059",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_st._cloud_-_pest_control_services_-_itb_2026-059",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/stcloud"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of St. Cloud - Continuing Professional Architectural and Landscape Architectural Services -  RFQ 2026-043",
+      "agency": "City of St. Cloud",
+      "title": "Continuing Professional Architectural and Landscape Architectural Services -  RFQ 2026-043",
+      "solicitationNumber": "RFQ 2026-043",
+      "category": "RFQ",
+      "published": "06/01/2026 11:06 AM",
+      "modified": "06/01/2026 11:08 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-02T14:00:00+00:00",
+        "india": "2026-07-02T19:30:00+05:30"
+      },
+      "message": "Continuing Professional Architectural and Landscape Architectural Services RFQ 2026-043",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_st._cloud_-_continuing_professional_architectural_and_landscape_architectural_services_-_rfq_2026-043",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/stcloud/projects/269674"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Office of Purchasing - Milled Asphalt - ITB PD 25-26.076",
+      "agency": "Escambia County BOCC- Office of Purchasing",
+      "title": "Milled Asphalt - ITB PD 25-26.076",
+      "solicitationNumber": "PD 25-26.076",
+      "category": "ITB",
+      "published": "06/01/2026 11:00 AM",
+      "modified": "06/01/2026 11:04 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-12T13:30:00+00:00",
+        "india": "2026-06-12T19:00:00+05:30"
+      },
+      "message": "Milled Asphalt ITB PD 25-26.076",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_office_of_purchasing_-_milled_asphalt_-_itb_pd_25-26.076",
+      "attachment": {
+        "fileName": "PD 25-26.076-Original Solicitation.pdf",
+        "fileSize": 542590,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458021/9678802?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0027_PD 25-26.076-Original Solicitation.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "http://procurement.opengov.com/portal/%7bproject.government.code%7d"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of Panama City, Florida - Chestnut Parking Lot Project - ITB  [PC26-021]",
+      "agency": "The City of Panama City, Florida",
+      "title": "Chestnut Parking Lot Project - ITB  [PC26-021]",
+      "solicitationNumber": "PC26-021",
+      "category": "ITB",
+      "published": "06/01/2026 10:52 AM",
+      "modified": "06/01/2026 10:59 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-30T06:00:00+00:00",
+        "india": "2026-06-30T11:30:00+05:30"
+      },
+      "message": "Chestnut Parking Lot Project ITB [PC26-021]",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_panama_city_florida_-_chestnut_parking_lot_project_-_itb_pc26-021",
+      "attachment": {
+        "fileName": "ITB No. PC26-036 Chestnut Parking Lot - Advertisement.pdf",
+        "fileSize": 143843,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/458011/9678731?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0028_ITB No. PC26-036 Chestnut Parking Lot - Advertisement.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://www.panamacity.gov/bids.aspx?bidID=544"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Monroe Ave Drainage Improvements - CDBG-DR HS005 - ITB PD 25-26. 063",
+      "agency": "Monroe Ave Drainage Improvements",
+      "title": "CDBG-DR HS005 - ITB PD 25-26. 063",
+      "solicitationNumber": "PD 25-26.",
+      "category": "ITB",
+      "published": "05/29/2026 2:17 PM",
+      "modified": "05/29/2026 2:19 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-29T14:00:00+00:00",
+        "india": "2026-06-29T19:30:00+05:30"
+      },
+      "message": "MONROE AVE DRAINAGE IMPROVEMENTS CDBG-DR HS005 ITB PD 25-26. 063",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/monroe_ave_drainage_improvements_-_cdbg-dr_hs005_-_itb_pd_25-26._063",
+      "attachment": {
+        "fileName": "PD 25-26.063 HS005 - Original Solicitation w Attachments 05.29.2026.pdf",
+        "fileSize": 565702,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457700/9669987?version=2",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0029_PD 25-26.063 HS005 - Original Solicitation w Attachments 05.29.2026.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://secure.procurenow.com/portal/%7bproject.government.code%7d"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BCC SHIP - Home Demo and Replacement House - 2711 N Hayne Street - PD 25-26.011",
+      "agency": "Escambia County BCC SHIP",
+      "title": "Home Demo and Replacement House - 2711 N Hayne Street - PD 25-26.011",
+      "solicitationNumber": "PD 25-26.011",
+      "category": "ITB",
+      "published": "05/29/2026 2:02 PM",
+      "modified": "05/29/2026 2:10 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-29T13:30:00+00:00",
+        "india": "2026-06-29T19:00:00+05:30"
+      },
+      "message": "Home Demo and Replacement House - 2711 N Hayne Street ITB PD 25-26.011",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bcc_ship_-_home_demo_and_replacement_house_-_2711_n_hayne_street_-_pd_25-26.011",
+      "attachment": {
+        "fileName": "PD 25-26.011.pdf",
+        "fileSize": 7156986,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457698/9669976?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0030_PD 25-26.011.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/%7Bproject.government.code%7D"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County - SHIP - HOME DEMO AND REPLACEMENT HOUSE - 2013 N Q STREET - ITB PD 25-26.070",
+      "agency": "Escambia County",
+      "title": "SHIP - HOME DEMO AND REPLACEMENT HOUSE - 2013 N Q STREET - ITB PD 25-26.070",
+      "solicitationNumber": "PD 25-26.070",
+      "category": "ITB",
+      "published": "05/29/2026 1:57 PM",
+      "modified": "05/29/2026 1:59 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-29T13:00:00+00:00",
+        "india": "2026-06-29T18:30:00+05:30"
+      },
+      "message": "HOME DEMO AND REPLACEMENT HOUSE - 2013 N Q STREET ITB PD 25-26.070",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_-_ship_-_home_demo_and_replacement_house_-_2013_n_q_street_-_itb_pd_25-26.070",
+      "attachment": {
+        "fileName": "PD 25-26.070.pdf",
+        "fileSize": 7380208,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457696/9669965?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0031_PD 25-26.070.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/%7bproject.government.code%7d?__cf_chl_tk=KaxYWuhSZbMZoxygkPvjveMegSzGh96nJr1u4SuG6ew-1780077527-1.0.1.1-dOlr8.61AnFo.R3zsYkBe4MJW_05apVWEQmfHkZLaBY"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of FWB - Well #3A Pipe Replacement - ITB 26-008",
+      "agency": "City of FWB",
+      "title": "Well #3A Pipe Replacement - ITB 26-008",
+      "solicitationNumber": "ITB 26-008",
+      "category": "ITB",
+      "published": "05/27/2026 3:34 PM",
+      "modified": "05/29/2026 1:43 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-07T06:00:00+00:00",
+        "india": "2026-07-07T11:30:00+05:30"
+      },
+      "message": "Well #3A Pipe Replacement ITB 26-008",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_fwb_-_well_3a_pipe_replacement_-_itb_26-008",
+      "attachment": {
+        "fileName": "26-008 ITB Advertisement.pdf",
+        "fileSize": 205054,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457533/9666240?version=2",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0032_26-008 ITB Advertisement.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "http://www.fwb.org"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Bay County Board of County Commissioners - Resurfacing - Phase 1 (SCOP) - ITB NO: 26-48 CR 2321",
+      "agency": "The Bay County Board of County Commissioners",
+      "title": "Resurfacing - Phase 1 (SCOP) - ITB NO: 26-48 CR 2321",
+      "solicitationNumber": "ITB NO: 26-48",
+      "category": "ITB",
+      "published": "05/28/2026 10:09 AM",
+      "modified": "05/28/2026 10:13 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-30T06:30:00+00:00",
+        "india": "2026-06-30T12:00:00+05:30"
+      },
+      "message": "Resurfacing - Phase 1 (SCOP) ITB NO: 26-48 CR 2321",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_bay_county_board_of_county_commissioners_-_resurfacing_-_phase_1_scop_-_itb_no_26-48_cr_2321",
+      "attachment": {
+        "fileName": "26-48 Legal Ad.doc",
+        "fileSize": 38912,
+        "mimeType": "application/msword",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457557/9666428?version=1"
+      },
+      "originalSite": {
+        "text": "Sign Up Here",
+        "url": "https://procurement.opengov.com/signup"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of St. Cloud - Enterprise Resource Planning (ERP) Software and Implementation Service - RFP 2026-027",
+      "agency": "City of St. Cloud",
+      "title": "Enterprise Resource Planning (ERP) Software and Implementation Service - RFP 2026-027",
+      "solicitationNumber": "RFP 2026-027",
+      "category": "RFP",
+      "published": "05/27/2026 3:43 PM",
+      "modified": "05/27/2026 3:45 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-09T14:00:00+00:00",
+        "india": "2026-06-09T19:30:00+05:30"
+      },
+      "message": "Enterprise Resource Planning (ERP) Software and Implementation Service RFP 2026-027",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_st._cloud_-_enterprise_resource_planning_erp_software_and_implementation_service_-_rfp_2026-027",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/stcloud/projects/241721"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of St. Cloud - Automotive Fleet Maintenance and Repair Services - ITB 2026-045",
+      "agency": "City of St. Cloud",
+      "title": "Automotive Fleet Maintenance and Repair Services - ITB 2026-045",
+      "solicitationNumber": "ITB 2026-045",
+      "category": "ITB",
+      "published": "05/27/2026 3:39 PM",
+      "modified": "05/27/2026 3:42 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-12T09:00:00+00:00",
+        "india": "2026-06-12T14:30:00+05:30"
+      },
+      "message": "Automotive Fleet Maintenance and Repair Services ITB 2026-045",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_st._cloud_-_automotive_fleet_maintenance_and_repair_services_-_itb_2026-045",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/stcloud/projects/265929"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Collection of Unpaid Accounts for EMS - ITB PD 25-26.073",
+      "agency": "Escambia County BOCC- Collection of Unpaid Accounts for EMS",
+      "title": "ITB PD 25-26.073",
+      "solicitationNumber": "PD 25-26.073",
+      "category": "ITB",
+      "published": "05/27/2026 3:31 PM",
+      "modified": "05/27/2026 3:33 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-09T13:30:00+00:00",
+        "india": "2026-06-09T19:00:00+05:30"
+      },
+      "message": "Collection of Unpaid Accounts for EMS ITB PD 25-26.073",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_collection_of_unpaid_accounts_for_ems_-_itb_pd_25-26.073",
+      "attachment": {
+        "fileName": "PD 25-26.073- Original  Solication.pdf",
+        "fileSize": 392866,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457532/9666232?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0036_PD 25-26.073- Original  Solication.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://secure.procurenow.com/portal/escambiacountyfl"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Office of Purchasing - HURRICANE IAN HMGP BUYOUT - H1277 - 4673-037-R - RFP PD 25-26.071 -",
+      "agency": "Escambia County BOCC- Office of Purchasing",
+      "title": "HURRICANE IAN HMGP BUYOUT - H1277 - 4673-037-R - RFP PD 25-26.071 -",
+      "solicitationNumber": "PD 25-26.071",
+      "category": "RFP",
+      "published": "05/27/2026 3:23 PM",
+      "modified": "05/27/2026 3:30 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-25T14:00:00+00:00",
+        "india": "2026-06-25T19:30:00+05:30"
+      },
+      "message": "HURRICANE IAN HMGP BUYOUT - H1277 - 4673-037-R - RFP PD 25-26.071 RFP PD 25-26.071",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_office_of_purchasing_-_hurricane_ian_hmgp_buyout_-_h1277_-_4673-037-r_-_rfp_pd_25-26.071_-",
+      "attachment": {
+        "fileName": "PD 25-26.071 Original Solicitation with Attachments 052626.pdf",
+        "fileSize": 3114193,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457531/9666224?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0037_PD 25-26.071 Original Solicitation with Attachments 052626.pdf"
+      },
+      "originalSite": {
+        "text": "",
+        "url": ""
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Monroe County, Florida - Invasive Exotic Plant Removal Project at Marathon International Airport - RFP-634",
+      "agency": "Monroe County, Florida",
+      "title": "Invasive Exotic Plant Removal Project at Marathon International Airport - RFP-634",
+      "solicitationNumber": "RFP-634",
+      "category": "RFP",
+      "published": "05/26/2026 9:01 AM",
+      "modified": "05/26/2026 9:10 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-07T07:00:00+00:00",
+        "india": "2026-07-07T12:30:00+05:30"
+      },
+      "message": "Invasive Exotic Plant Removal Project at Marathon International Airport RFP-634",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/monroe_county_florida_-_invasive_exotic_plant_removal_project_at_marathon_international_airport_-_rfp-634",
+      "attachment": {
+        "fileName": "REV Legal Notice.docx",
+        "fileSize": 18198,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457515/9665595?version=1"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://monroecounty-fl.bonfirehub.com/opportunities/236248"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Fort Walton Beach, Florida - Asphalt Paving - ITB 26-010",
+      "agency": "City of Fort Walton Beach, Florida",
+      "title": "Asphalt Paving - ITB 26-010",
+      "solicitationNumber": "ITB 26-010",
+      "category": "ITB",
+      "published": "05/21/2026 1:43 PM",
+      "modified": "05/21/2026 1:51 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-18T06:00:00+00:00",
+        "india": "2026-06-18T11:30:00+05:30"
+      },
+      "message": "Asphalt Paving ITB 26-010",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_fort_walton_beach_florida_-_asphalt_paving_-_itb_26-010",
+      "attachment": {
+        "fileName": "Advertisement; FINAL; 2026 05-21.pdf",
+        "fileSize": 114696,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457153/9655794?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0039_Advertisement; FINAL; 2026 05-21.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://www.bidnetdirect.com/florida/city-of-fort-walton-beach"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Board of County Commissioners of Okaloosa County, FL - Event Management Software - RFP TDD 55-26",
+      "agency": "Board of County Commissioners of Okaloosa County, FL",
+      "title": "Event Management Software - RFP TDD 55-26",
+      "solicitationNumber": "",
+      "category": "RFP",
+      "published": "05/21/2026 1:36 PM",
+      "modified": "05/21/2026 1:41 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-19T07:00:00+00:00",
+        "india": "2026-06-19T12:30:00+05:30"
+      },
+      "message": "Event Management Software RFP TDD 55-26",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/board_of_county_commissioners_of_okaloosa_county_fl_-_event_management_software_-_rfp_tdd_55-26",
+      "attachment": {
+        "fileName": "RFP TDD 55-26.NTR.pdf",
+        "fileSize": 82405,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457152/9655786?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0040_RFP TDD 55-26.NTR.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/myokaloosa"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Okaloosa County Tourist Development Department - Charter Boat Services -  ITB TDD 53-26",
+      "agency": "The Okaloosa County Tourist Development Department",
+      "title": "Charter Boat Services -  ITB TDD 53-26",
+      "solicitationNumber": "",
+      "category": "ITB",
+      "published": "05/21/2026 1:31 PM",
+      "modified": "05/21/2026 1:34 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-17T07:00:00+00:00",
+        "india": "2026-06-17T12:30:00+05:30"
+      },
+      "message": "Charter Boat Services ITB TDD 53-26",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_okaloosa_county_tourist_development_department_-_charter_boat_services_-_itb_tdd_53-26",
+      "attachment": {
+        "fileName": "ITB TDD 53-26.NTR.pdf",
+        "fileSize": 81186,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457151/9655778?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0041_ITB TDD 53-26.NTR.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/myokaloosa/projects/259385"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Santa Rosa County Board of County Commissioners - Regional Reuse System Phase 2 project - ITB  26-039",
+      "agency": "Santa Rosa County Board of County Commissioners",
+      "title": "Regional Reuse System Phase 2 project - ITB  26-039",
+      "solicitationNumber": "ITB 26-039",
+      "category": "ITB",
+      "published": "05/21/2026 1:27 PM",
+      "modified": "05/21/2026 1:30 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-30T14:00:00+00:00",
+        "india": "2026-06-30T19:30:00+05:30"
+      },
+      "message": "Regional Reuse System Phase 2 project ITB 26-039",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/santa_rosa_county_board_of_county_commissioners_-_regional_reuse_system_phase_2_project_-_itb_26-039",
+      "attachment": {
+        "fileName": "26-039 Legal Notice.docx",
+        "fileSize": 77351,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457150/9655770?version=1"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/santarosafl"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Sebring - Engineering Services for SAHM CWSRF Projects 1 – 4 - RFQ - 26-008",
+      "agency": "City of Sebring",
+      "title": "Engineering Services for SAHM CWSRF Projects 1 – 4 - RFQ - 26-008",
+      "solicitationNumber": "s 1",
+      "category": "RFQ",
+      "published": "05/21/2026 11:56 AM",
+      "modified": "05/21/2026 11:59 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-18T07:00:00+00:00",
+        "india": "2026-06-18T12:30:00+05:30"
+      },
+      "message": "Engineering Services for SAHM CWSRF Projects 1 – 4 RFQ - 26-008",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_sebring_-_engineering_services_for_sahm_cwsrf_projects_1_4_-_rfq_-_26-008",
+      "attachment": {
+        "fileName": "RFQ 26-008 Legal Ad.docx",
+        "fileSize": 15771,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457149/9655762?version=1"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://www.mysebring.com/199/Purchasing"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Bay County Board of County Commissioners - Bay County Government Center Rotunda Renovation Project - ITB NO: 26-45",
+      "agency": "The Bay County Board of County Commissioners",
+      "title": "Bay County Government Center Rotunda Renovation Project - ITB NO: 26-45",
+      "solicitationNumber": "ITB NO: 26-45",
+      "category": "ITB",
+      "published": "05/21/2026 11:52 AM",
+      "modified": "05/21/2026 11:55 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-23T06:00:00+00:00",
+        "india": "2026-06-23T11:30:00+05:30"
+      },
+      "message": "Bay County Government Center Rotunda Renovation Project ITB NO: 26-45",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_bay_county_board_of_county_commissioners_-_bay_county_government_center_rotunda_renovation_project_-_itb_no_26-45",
+      "attachment": {
+        "fileName": "26-45 Legal Ad.doc",
+        "fileSize": 33280,
+        "mimeType": "application/msword",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457148/9655754?version=1"
+      },
+      "originalSite": {
+        "text": "Sign Up Here",
+        "url": "https://procurement.opengov.com/signup"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Fort Walton Beach - PURCHASE & INSTALLATION OF DUMPSTER ENCLOSURES - CRA -  ITB 26-012",
+      "agency": "City of Fort Walton Beach",
+      "title": "PURCHASE & INSTALLATION OF DUMPSTER ENCLOSURES - CRA -  ITB 26-012",
+      "solicitationNumber": "ITB 26-012",
+      "category": "ITB",
+      "published": "05/21/2026 11:48 AM",
+      "modified": "05/21/2026 11:51 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-11T06:00:00+00:00",
+        "india": "2026-06-11T11:30:00+05:30"
+      },
+      "message": "PURCHASE & INSTALLATION OF DUMPSTER ENCLOSURES - CRA ITB 26-012",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_fort_walton_beach_-_purchase_installation_of_dumpster_enclosures_-_cra_-_itb_26-012",
+      "attachment": {
+        "fileName": "Advertisement; FINAL; 2026 05-19.pdf",
+        "fileSize": 113891,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457147/9655746?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0045_Advertisement; FINAL; 2026 05-19.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://www.fwb.org/"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Hillsborough County Sheriff’s Office - Inmate Personal Grooming Supplies - TC 2026-014",
+      "agency": "Hillsborough County Sheriff’s Office",
+      "title": "Inmate Personal Grooming Supplies - TC 2026-014",
+      "solicitationNumber": "",
+      "category": "",
+      "published": "05/21/2026 8:42 AM",
+      "modified": "05/21/2026 8:46 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-18T07:00:00+00:00",
+        "india": "2026-06-18T12:30:00+05:30"
+      },
+      "message": "Inmate Personal Grooming Supplies TC 2026-014",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/hillsborough_county_sheriff_s_office_-_inmate_personal_grooming_supplies_-_tc_2026-014",
+      "attachment": {
+        "fileName": "OSD and HCFL Advertisement for Tuesday May 19, 2026 (1).pdf",
+        "fileSize": 139903,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457146/9655738?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0046_OSD and HCFL Advertisement for Tuesday May 19, 2026 (1).pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://www.demandstar.com/app/limited/bids/533650/details"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of St. Augustine - Nights of Lights - RFQ 26024",
+      "agency": "The City of St. Augustine",
+      "title": "Nights of Lights - RFQ 26024",
+      "solicitationNumber": "RFQ 26024",
+      "category": "RFQ",
+      "published": "05/21/2026 8:35 AM",
+      "modified": "05/21/2026 8:41 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-08T06:00:00+00:00",
+        "india": "2026-07-08T11:30:00+05:30"
+      },
+      "message": "Nights of Lights RFQ 26024",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_st._augustine_-_nights_of_lights_-_rfq_26024",
+      "attachment": {
+        "fileName": "Legal Notice 2.pdf",
+        "fileSize": 172378,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457145/9655730?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0047_Legal Notice 2.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/staugustine/projects/264087"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Hillsborough County Sheriff’s Office - Program Management Consulting - RFQ 2026-004",
+      "agency": "Hillsborough County Sheriff’s Office",
+      "title": "Program Management Consulting - RFQ 2026-004",
+      "solicitationNumber": "RFQ 2026-004",
+      "category": "RFQ",
+      "published": "05/21/2026 8:29 AM",
+      "modified": "05/21/2026 8:34 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-24T07:00:00+00:00",
+        "india": "2026-06-24T12:30:00+05:30"
+      },
+      "message": "Program Management Consulting RFQ 2026-004",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/hillsborough_county_sheriff_s_office_-_program_management_consulting_-_rfq_2026-004",
+      "attachment": {
+        "fileName": "OSD and HCFL Advertisement for 5.20.2026 (3).pdf",
+        "fileSize": 494478,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457144/9655722?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0048_OSD and HCFL Advertisement for 5.20.2026 (3).pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://www.demandstar.com/app/limited/bids/533414/details"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Hillsborough County Sheriff's Office - CMAR Services for the Renovation of the New HCSO Sheriff's Operations Center - RFQ-2026-017",
+      "agency": "Hillsborough County Sheriff's Office",
+      "title": "CMAR Services for the Renovation of the New HCSO Sheriff's Operations Center - RFQ-2026-017",
+      "solicitationNumber": "RFQ-2026-017",
+      "category": "RFQ",
+      "published": "05/20/2026 2:25 PM",
+      "modified": "05/20/2026 2:32 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-24T07:00:00+00:00",
+        "india": "2026-06-24T12:30:00+05:30"
+      },
+      "message": "CMAR Services for the Renovation of the New HCSO Sheriff's Operations Center RFQ-2026-017",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/hillsborough_county_sheriff_s_office_-_cmar_services_for_the_renovation_of_the_new_hcso_sheriff_s_operations_center_-_rfq-2026-017",
+      "attachment": {
+        "fileName": "OSD and HCFL Advertisement for 5.20.2026 (1).pdf",
+        "fileSize": 591138,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457077/9653756?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0049_OSD and HCFL Advertisement for 5.20.2026 (1).pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://www.demandstar.com/app/limited/bids/533410/details"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Monroe County, FL - Countywide Chiller Maintenance and Service-Multiple Locations - RFP-633",
+      "agency": "Monroe County, FL",
+      "title": "Countywide Chiller Maintenance and Service-Multiple Locations - RFP-633",
+      "solicitationNumber": "RFP-633",
+      "category": "RFP",
+      "published": "05/20/2026 2:07 PM",
+      "modified": "05/20/2026 2:10 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-17T07:00:00+00:00",
+        "india": "2026-06-17T12:30:00+05:30"
+      },
+      "message": "Countywide Chiller Maintenance and Service-Multiple Locations RFP-633",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/monroe_county_fl_-_countywide_chiller_maintenance_and_service-multiple_locations_-_rfp-633",
+      "attachment": {
+        "fileName": "Notice-Countywide Chiller Maintenance  Service-Multiple Locations.docx",
+        "fileSize": 17562,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457075/9653740?version=1"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://monroecounty-fl.bonfirehub.com/opportunities/236096"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Monroe County, FL - Library Media Box Surplus Sale - ITB-636",
+      "agency": "Monroe County, FL",
+      "title": "Library Media Box Surplus Sale - ITB-636",
+      "solicitationNumber": "ITB-636",
+      "category": "ITB",
+      "published": "05/20/2026 2:03 PM",
+      "modified": "05/20/2026 2:06 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-11T07:00:00+00:00",
+        "india": "2026-06-11T12:30:00+05:30"
+      },
+      "message": "Library Media Box Surplus Sale ITB-636",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/monroe_county_fl_-_library_media_box_surplus_sale_-_itb-636",
+      "attachment": {
+        "fileName": "Legal Notice.pdf",
+        "fileSize": 116379,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457074/9653732?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0051_Legal Notice.pdf"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://monroecounty-fl.bonfirehub.com/opportunities/236539"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Monroe County, Florida - Hangar Development at the Florida Keys Marathon International Airport - RFP-635",
+      "agency": "Monroe County, Florida",
+      "title": "Hangar Development at the Florida Keys Marathon International Airport - RFP-635",
+      "solicitationNumber": "RFP-635",
+      "category": "RFP",
+      "published": "05/20/2026 1:53 PM",
+      "modified": "05/20/2026 1:59 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-30T07:00:00+00:00",
+        "india": "2026-07-30T12:30:00+05:30"
+      },
+      "message": "Hangar Development at the Florida Keys Marathon International Airport RFP-635",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/monroe_county_florida_-_hangar_development_at_the_florida_keys_marathon_international_airport_-_rfp-635",
+      "attachment": {
+        "fileName": "Notice to Publish-Version 2.docx",
+        "fileSize": 17569,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/457073/9653724?version=1"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://monroecounty-fl.bonfirehub.com/opportunities/236288"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Monroe County Purchasing Department - FY2027 Tourist Development Council (TDC) Capital Project Application - RFA-632",
+      "agency": "The Monroe County Purchasing Department",
+      "title": "FY2027 Tourist Development Council (TDC) Capital Project Application - RFA-632",
+      "solicitationNumber": "",
+      "category": "RFA",
+      "published": "05/19/2026 8:52 AM",
+      "modified": "05/19/2026 8:57 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-30T09:00:00+00:00",
+        "india": "2026-06-30T14:30:00+05:30"
+      },
+      "message": "FY2027 Tourist Development Council (TDC) Capital Project Application RFA-632",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_monroe_county_purchasing_department_-_fy2027_tourist_development_council_tdc_capital_project_application_-_rfa-632",
+      "attachment": {
+        "fileName": "Legal Notice (12).docx",
+        "fileSize": 17416,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/456950/9651531?version=1"
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://monroecounty-fl.bonfirehub.com/opportunities/236126"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Bay County Board of County Commissioners - Bay County Steelfield Landfill Daily Cover Services - ITB NO: 26-43",
+      "agency": "The Bay County Board of County Commissioners",
+      "title": "Bay County Steelfield Landfill Daily Cover Services - ITB NO: 26-43",
+      "solicitationNumber": "ITB NO: 26-43",
+      "category": "ITB",
+      "published": "05/19/2026 8:47 AM",
+      "modified": "05/19/2026 8:51 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-18T06:00:00+00:00",
+        "india": "2026-06-18T11:30:00+05:30"
+      },
+      "message": "Bay County Steelfield Landfill Daily Cover Services ITB NO: 26-43",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_bay_county_board_of_county_commissioners_-_bay_county_steelfield_landfill_daily_cover_services_-_itb_no_26-43",
+      "attachment": {
+        "fileName": "26-43 Legal Ad.doc",
+        "fileSize": 31744,
+        "mimeType": "application/msword",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/456949/9651523?version=1"
+      },
+      "originalSite": {
+        "text": "Sign Up Here",
+        "url": "https://procurement.opengov.com/signup"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Hillsborough County Sheriff’s Office - Public Assistance Grant Funding Application Consultant Services - RFP 2026-015",
+      "agency": "Hillsborough County Sheriff’s Office",
+      "title": "Public Assistance Grant Funding Application Consultant Services - RFP 2026-015",
+      "solicitationNumber": "RFP 2026-015",
+      "category": "RFP",
+      "published": "05/15/2026 12:40 PM",
+      "modified": "05/15/2026 12:44 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-18T07:00:00+00:00",
+        "india": "2026-06-18T12:30:00+05:30"
+      },
+      "message": "Public Assistance Grant Funding Application Consultant Services RFP 2026-015",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/hillsborough_county_sheriff_s_office_-_public_assistance_grant_funding_application_consultant_services_-_rfp_2026-015",
+      "attachment": {
+        "fileName": "OSD and HCFL Advertisement for 5.17.2026 (1).pdf",
+        "fileSize": 481426,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/456638/9642680?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0055_OSD and HCFL Advertisement for 5.17.2026 (1).pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://teamhcso.com/purchasing"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Gadsden County Board of County Commissioners - 2026 County Paving Project - ITB 26-15",
+      "agency": "The Gadsden County Board of County Commissioners",
+      "title": "2026 County Paving Project - ITB 26-15",
+      "solicitationNumber": "ITB 26-15",
+      "category": "ITB",
+      "published": "05/15/2026 12:34 PM",
+      "modified": "05/15/2026 12:36 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-23T07:00:00+00:00",
+        "india": "2026-06-23T12:30:00+05:30"
+      },
+      "message": "2026 County Paving Project ITB 26-15",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_gadsden_county_board_of_county_commissioners_-_2026_county_paving_project_-_itb_26-15",
+      "attachment": {
+        "fileName": "Advertisement.pdf",
+        "fileSize": 556998,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/456636/9642664?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0056_Advertisement.pdf"
+      },
+      "originalSite": {
+        "text": "",
+        "url": ""
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Bay County Board of County Commissioners - FY26 Annual Resurfacing Phase 2 - ITB NO: 26-46",
+      "agency": "The Bay County Board of County Commissioners",
+      "title": "FY26 Annual Resurfacing Phase 2 - ITB NO: 26-46",
+      "solicitationNumber": "ITB NO: 26-46",
+      "category": "ITB",
+      "published": "05/15/2026 11:52 AM",
+      "modified": "05/15/2026 12:21 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-16T14:00:00+00:00",
+        "india": "2026-06-16T19:30:00+05:30"
+      },
+      "message": "FY26 Annual Resurfacing Phase 2 ITB NO: 26-46",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_bay_county_board_of_county_commissioners_-_fy26_annual_resurfacing_phase_2_-_itb_no_26-46",
+      "attachment": {
+        "fileName": "26-46 Legal Ad.doc",
+        "fileSize": 36864,
+        "mimeType": "application/msword",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/456616/9642499?version=1"
+      },
+      "originalSite": {
+        "text": "Sign Up Here",
+        "url": "https://procurement.opengov.com/signup"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Fort Walton Beach, Florida - Bids Requested for Janitorial Services - ITB 26-011",
+      "agency": "City of Fort Walton Beach, Florida",
+      "title": "Bids Requested for Janitorial Services - ITB 26-011",
+      "solicitationNumber": "ITB 26-011",
+      "category": "ITB",
+      "published": "05/12/2026 8:32 AM",
+      "modified": "05/14/2026 8:38 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-14T18:00:00+00:00",
+        "india": "2026-07-14T23:30:00+05:30"
+      },
+      "message": "",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_fort_walton_beach_florida_-_bids_requested_for_janitorial_services_-_itb_26-011",
+      "attachment": {
+        "fileName": "Advertisement; FINAL; 2026 05-12.pdf",
+        "fileSize": 120509,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/456545/9641072?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0058_Advertisement; FINAL; 2026 05-12.pdf"
+      },
+      "originalSite": {
+        "text": "",
+        "url": ""
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County, FL - Maintenance of County Street and Navigation Lights- Re-solicit - PD 25-26.068",
+      "agency": "Escambia County, FL",
+      "title": "Maintenance of County Street and Navigation Lights- Re-solicit - PD 25-26.068",
+      "solicitationNumber": "PD 25-26.068",
+      "category": "ITB",
+      "published": "05/11/2026 9:00 AM",
+      "modified": "05/12/2026 9:23 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-27T16:00:00+00:00",
+        "india": "2026-05-27T21:30:00+05:30"
+      },
+      "message": "INVITATION TO BID PD 25-26.068 MAINTENANCE OF COUNTY STREET AND NAVIGATION LIGHTS- RE-SOLICIT Escambia County 213 Palafox Place Pensacola, FL 32502-5822 RELEASE DATE: May 11, 2026 DEADLINE FOR QUESTIONS: May 18, 2026 RESPONSE DEADLINE: May 27, 2026, 9:30 am RESPONSES MUST BE SUBMITTED ELECTRONICALLY TO: https://secure.procurenow.com/portal/escambiacountyfl",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_fl_-_maintenance_of_county_street_and_navigation_lights-_re-solicit_-_pd_25-26.068",
+      "attachment": {
+        "fileName": "PD 25-26.068-Original Solicitation.pdf",
+        "fileSize": 750524,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/456389/9637115?version=2",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0059_PD 25-26.068-Original Solicitation.pdf"
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://procurement.opengov.com/portal/escambiacountyfl/projects/264676"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Invitation to Bid:  26-36 Trash Collection Services",
+      "agency": "",
+      "title": "Invitation to Bid:  26-36 Trash Collection Services",
+      "solicitationNumber": "26-36 Trash Collection",
+      "category": "Invitation to Bid",
+      "published": "05/08/2026 5:11 PM",
+      "modified": "05/08/2026 5:14 PM",
+      "dmsArchiveTime": {
+        "utc": "",
+        "india": ""
+      },
+      "message": "The Bay County Board of County Commissioners (County) seeks bids from qualified vendors for trash collection services at various County locations. Locations and frequencies of services are further described in the Bid Form located in Attachment 1.",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/invitation_to_bid_26-36_trash_collection_services",
+      "attachment": {
+        "fileName": "26-36 Legal Ad.pdf",
+        "fileSize": 98147,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/455962/9625074?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0060_26-36 Legal Ad.pdf"
+      },
+      "originalSite": {
+        "text": "",
+        "url": ""
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Englewood Water District Procurement Department - Manasota Key Water Main Replacement - RFB 2026-145",
+      "agency": "Englewood Water District Procurement Department",
+      "title": "Manasota Key Water Main Replacement - RFB 2026-145",
+      "solicitationNumber": "",
+      "category": "RFB",
+      "published": "05/07/2026 11:16 AM",
+      "modified": "05/08/2026 5:06 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-11T18:15:00+00:00",
+        "india": "2026-06-11T23:45:00+05:30"
+      },
+      "message": "Legal Notice Notice is hereby given that the Englewood Water District (“District”), Englewood, Florida ,is requesting Sealed Bids for RFB 2026-145, Manasota Key Water Main Replacement, in accordance with applicable Florida law. Sealed Bids will be received until 2:15 PM (ET) on June 11, 2026, at the Englewood Water District Administrative Office, 201 Selma Avenue, Englewood, Florida 34223. Bids received after the due date and time will not be considered. Bids will be publicly opened and read aloud at 2:30 PM (ET) on June 11, 2026, in the District Board Room located at 201 Selma Avenue, Englewood, Florida 34223. The Project generally consists of the replacement of damaged water distribution piping at Manasota Key, including associated fittings, connections, restoration, and appurtenant work. A non-mandatory pre-bid meeting will be held on May 13, 2026 at 10:30 a.m. in the District Board Room located at 201 Selma Avenue, Englewood, Florida 34223. There will be no site visit. Attendance is strongly encouraged but not required. Bid Documents may be obtained from www.DemandStar.com and the District’s website at https://englewoodwater.com/legal-notices-purchasing All questions regarding this Solicitation must be submitted in writing in accordance with the instructions contained in the Solicitation Documents. The District reserves the right to reject any or all Bids and to waive informalities or irregularities in the bidding process, as permitted by law. Procurement Schedule Advertisement May 5, 2026 Non-Mandatory Pre-Bid Conference - 10:30 A.M., May 13, 2026 Pre-Bid Location: Englewood Water District Board Room, 201 Selma Avenue, Englewood, Florida 34223 Site Visit: None Final Date for Bidder Questions - 5:00 P.M., May 28, 2026 Anticipated Final Addendum Issued - June 4, 2026 Solicitation Responses Due - 2:15 P.M., June 11, 2026 RFB 2026-145 - Technical Specifications RFB 2026-145 - Bid Plans",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/englewood_water_district_procurement_department_-_manasota_key_water_main_replacement_-_rfb_2026-145",
+      "attachment": {
+        "fileName": "RFB 2026-145 Manasota Key Water Main Replacement.pdf",
+        "fileSize": 3086509,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/455953/9625037?version=6",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0061_RFB 2026-145 Manasota Key Water Main Replacement.pdf"
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://englewoodwater.com/legal-notices-purchases/"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "License Examination Development and Administration Services",
+      "agency": "",
+      "title": "License Examination Development and Administration Services",
+      "solicitationNumber": "",
+      "category": "Request for Proposals (RFP)",
+      "published": "05/08/2026 9:15 AM",
+      "modified": "05/08/2026 4:49 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-30T13:00:00+00:00",
+        "india": "2026-06-30T18:30:00+05:30"
+      },
+      "message": "The Department of Financial Services (Department), an agency of the state of Florida (State), is issuing this Request for Proposal (RFP) to establish a contract for the development and administration of insurance license examination and other services related to the licensing process for the Division of Insurance Agents and Agencies. These examinations are a part of determining eligibility for licensure and are given to prospective licensees to ensure that only qualified individuals serve the citizens of Florida. Review Appendix E, Exhibits 1 – 6 for information related to test volume, type, and frequency needed for this service. In addition, the vendor will provide development and administration examination services to the Division of State Fire Marshal-Bureau of Fire Standards and Training and Bureau of Fire Prevention, and Division of Funeral, Cemetery and Consumer Services. Review Appendix F, Exhibit 1 for information related to the test volume, type, and frequency needed for this service for the Division of State Fire Marshal-Bureau of Fire Standards and Training and Bureau of Fire Prevention and Division of Funeral, Cemetery and Consumer Services. The solicitation will be administered through the Vendor Information Portal (VIP). The submitted Response must comply with the terms and conditions stated in this RFP.",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/license_examination_development_and_administration_services",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Read More about License Examination Development and Administration Services",
+        "url": "https://vendor.myfloridamarketplace.com/search/bids/detail/15892"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of St. Cloud, Florida - St. Cloud Joint Planning Area Watershed Master Plan - RFQ 2026-039",
+      "agency": "City of St. Cloud, Florida",
+      "title": "St. Cloud Joint Planning Area Watershed Master Plan - RFQ 2026-039",
+      "solicitationNumber": "RFQ 2026-039",
+      "category": "RFQ",
+      "published": "05/06/2026 10:16 AM",
+      "modified": "05/06/2026 10:41 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-04T14:00:00+00:00",
+        "india": "2026-06-04T19:30:00+05:30"
+      },
+      "message": "Request for Qualifications City of St. Cloud RFQ 2026-039 St. Cloud Joint Planning Area Watershed Master Plan Opening Date: 10:00 a.m. Local Time – June 4, 2026 Deadline for Questions: 5:00 p.m. Local Time – May 18, 2026 Qualified, interested parties are invited to submit a bid package. Bid packages are due June 4, 2026 at 10 a.m. local time. RFQ package is available from https://procurement.opengov.com/portal/stcloud . Call 407-957-7212 for more information. The City of St. Cloud will receive Bids through the OpenGov Portal at https://procurement.opengov.com/portal/stcloud for goods, equipment, materials, and related services set forth in the included specifications and documents. All questions shall be submitted through the OpenGov Portal. The deadline for submitting questions is 5:00 p.m., May 18, 2026. Questions will not be accepted if received after this time and date. The general scope of work is as follows: The City of St. Cloud is seeking to engage a qualified firm to provide a comprehensive Watershed Master Plan (WMP) for the City's Joint Planning Area, as specified in the Detailed Scope of Services and Requirements Section of this RFQ document. The selected consultant will provide technical, planning, and stakeholder engagement services to evaluate watershed conditions, assess flood risks, and develop implementable strategies for flood mitigation, stormwater management, and water quality improvement. The consultant will demonstrate expertise in hydrology, hydraulics, floodplain analysis, environmental engineering, ecology, and urban planning. The selection of the successful consultant shall be at the City’s discretion and shall be made in a prompt manner after receipt and evaluation of all responses. If you are interested in preparing a response to this RFQ, please complete all the requirements set forth in this RFQ document. Under the solicitation process, the stipulations set forth herein are fully binding on the proposer to the extent that you confirm acceptance by your electronic signature on the Respondent’s Certification.",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_st._cloud_florida_-_st._cloud_joint_planning_area_watershed_master_plan_-_rfq_2026-039",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://procurement.opengov.com/portal/stcloud/projects/261538"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Bay County, Florida - Military Point Advance Wastewater Treatment Plant Project Logic Controller Replacement - ITB 24-41",
+      "agency": "Bay County, Florida",
+      "title": "Military Point Advance Wastewater Treatment Plant Project Logic Controller Replacement - ITB 24-41",
+      "solicitationNumber": "ITB 24-41",
+      "category": "ITB",
+      "published": "05/06/2026 6:19 AM",
+      "modified": "05/06/2026 6:24 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-09T18:00:00+00:00",
+        "india": "2026-06-09T23:30:00+05:30"
+      },
+      "message": "BOARD OF COUNTY COMMISSIONERS BAY COUNTY, FLORIDA INVITATION TO BID The Bay County Board of County Commissioners (County) seeks bids from qualified contractors to replace old SLC500’s and associated I/O modules with new ControlLogix or CompactLogix PLC’s and associated I/O modules at the Bay County Military Point Advanced Water Treatment (MPAWT) Plant located at 100 Lagoon Road, Tyndall Air Force Base, FL 32403 in accordance with the Scope of Work Exhibit 2. Vendors shall be Florida licensed General Contractor. Sub-Contractors shall be Florida licensed in their trade. Vendors shall identify subcontractors that are providing services requiring a license under Florida law. Bids may be deemed nonresponsive if not accompanied by proof of any required State of Florida license. A MANDATORY Site Visit will be held at 10:00 am (CDT) Tuesday, May 19, 2026 at the Bay County Military Point Advanced Water Treatment Plant located at 100 Lagoon Road, Tyndall Air Force Base, FL 32403. Note: Any vendor wishing to attend the site visit will be required to report in at the Tyndall AFB Visitor Center prior to attending the site visit. All of the vendor’s employees attending the site visit must possess a valid driver’s license to obtain a visitor pass. Please allow ample time for processing, as wait times for visitor passes may vary. Please contact the purchasing department by email purchasing@baycountyfl.gov no later than May 18, 2026, to provide the names of the vendor representatives who will be attending the site visit. For the vendor awarded the contract, Tyndall AFB will require all of the vendor’s employees to successfully pass a background check. Employees will be required to provide a valid driver’s license and social security number as part of the background check process. Note: Respondents shall attend the site visit. Any respondent who fails to attend will be deemed non-responsive and automatically disqualified from further consideration. The purpose of this meeting is to familiarize respondents with the project. All respondents must be present and signed in prior to the start of the Mandatory Site Visit. The convener of the meeting will collect the sign in sheet(s) and the meeting will “Officially” start. Anyone not signed in at the “Official” start of the meeting will be considered late and will not be allowed to propose on the project. No questions shall be asked at the site visit. All questions shall be submitted in writing to the Bay County Purchasing Office. Sealed Bids for ITB NO: 26-41 Bay County Military Point Advance Wastewater Treatment Plant Project Logic Controller Replacement will be received by the BOARD OF COUNTY COMMISSIONERS OF BAY COUNTY, FLORIDA up until 2:00 pm (CDT) Tuesday, June 9, 2026. Bids will be publicly opened immediately following the deadline. ANY BID RECEIVED AFTER THE SPECIFIED TIME WILL NOT BE CONSIDERED. Electronic versions of the solicitation documents are available via OPENGOV Procurement https://procurement.opengov.com/signup Special Accommodation: Any person requiring a special accommodation at a Pre-Bid Conference or Bid opening because of a disability should call the Purchasing Department at (850) 248-8270 at least five (5) workdays prior to the Pre‑Bid Conference or Bid opening. For Hearing Impaired, Dial 1-800-955-8771 (TOO), and 1-800-955-8770 (Voice). The Bay County Board of County Commissioners reserves the right to accept or reject any and/or all proposals in the best interest of Bay County. Bay County is an Equal Opportunity Employer. Bay County hereby notifies all Respondents that it will affirmatively insure that a contract entered into pursuant to this advertisement will be afforded the full opportunity to submit submittals in response to this invitation and will not be discriminated against on the grounds of race, color, religion, sex, national origin, age, disability, sexual preference, marital or veteran status, or any legally protected status in consideration for an award. Submitted by Ken Longstreet Grant Procurement Administrator",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/bay_county_florida_-_military_point_advance_wastewater_treatment_plant_project_logic_controller_replacement_-_itb_24-41",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "",
+        "url": ""
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Panama City Beach, Florida - Voluntary Home Buyout - Demolition of Residential Structures HS012 - PC26-035",
+      "agency": "City of Panama City Beach, Florida",
+      "title": "Voluntary Home Buyout - Demolition of Residential Structures HS012 - PC26-035",
+      "solicitationNumber": "",
+      "category": "ITB",
+      "published": "05/05/2026 3:50 PM",
+      "modified": "05/05/2026 3:59 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-03T14:00:00+00:00",
+        "india": "2026-06-03T19:30:00+05:30"
+      },
+      "message": "PUBLIC NOTICE INVITATION TO BID NO. PC26-035 VOLUNTARY HOME BUYOUT DEMOLITION OF RESIDENTIAL STRUCTURES – HS012 The City of Panama City, Florida, a Florida municipal corporation located in Bay County, Florida (“City” or “Owner”), seeks bids from experienced and qualified licensed contractor(s) to provide demolition services for the Voluntary Home Buyout Demolition of Residential Structures (the “Project”), as is more fully described in Section 3 Specifications and Scope of Work. The complete Invitation to Bid (“ITB”), including all specifications and bid forms may be obtained by emailing the City’s Purchasing Division at purchasing@panamacity.gov. Addenda, if any, will be posted on the City’s webpage https://www.panamacity.gov/bids.aspx and the Bonfire Portal https://panamacity.bonfirehub.com/portal/?tab=openOpportunities . Completed Bids should be submitted to the City’s Purchasing Division, City Hall, located at 501 Harrison Avenue, Panama City, FL 32401 via the Bonfire Portal at https://panamacity.bonfirehub.com/portal/?tab=openOpportunities , by June 3, 2026 at 10:00 AM CT (the “Bid Submission Date and Time”). Any Proposal received after the Bid Submission Due Date and Time or delivered to a different address, department, or location will not be considered. For questions regarding registering with the Bonfire Portal or for assistance with proposal submission, please contact the acquisition/bid specialist, Johnnie Gallegos, at purchasing@panamacity.gov. A Voluntary Pre-Bid Meeting is scheduled for May 13, 2026, at 9:00 AM CT at the City of Panama City, City Hall, Lower Level, Room 010, located at 501 Harrison Avenue, Panama City, FL 32401. Attendance is strongly encouraged but not required. The City shall accept the bid of the responsible bidder that best meets the needs of the City, taking into consideration, among other things, cost effectiveness, the financial responsibility of the bidder, capability to perform the contract on a timely basis, previous satisfactory performance, and such other abilities of the bidder that the City, in its sole discretion, determines will enable the bidder to perform effectively and efficiently. No bid may be withdrawn for a period of sixty (60) days after the scheduled closing date for the receipt of bids. The City shall not be liable for any costs incurred by any bidder in connection with its response to this ITB. The City reserves the right to reject any and all bids, to waive any informality in any bid, to solicit and re-advertise for new Bid submittals or to abandon the Project in its entirety. This Advertisement is issued by: Owner: City of Panama City By: Jennifer Aldridge Title: Disaster Recovery Manager Date: May 4, 2026",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_panama_city_beach_florida_-_voluntary_home_buyout_-_demolition_of_residential_structures_hs012_-_pc26-035",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details:",
+        "url": "https://www.panamacity.gov/bids.aspx?bidID=543"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Okaloosa County, Florida - POCAHONTAS LIFT STATION REPLACEMENT PROJECT - ITB WS 52-26",
+      "agency": "Okaloosa County, Florida",
+      "title": "POCAHONTAS LIFT STATION REPLACEMENT PROJECT - ITB WS 52-26",
+      "solicitationNumber": "ITB WS 52-26",
+      "category": "ITB",
+      "published": "05/05/2026 3:44 PM",
+      "modified": "05/05/2026 3:49 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-27T19:00:00+00:00",
+        "india": "2026-05-28T00:30:00+05:30"
+      },
+      "message": "OKALOOSA BOARD OF COUNTY COMMISSIONERS CRESTVIEW, FLORIDA NOTICE TO RESPONDENTS ITB WS 52-26 POCAHONTAS LIFT STATION REPLACEMENT PROJECT Notice is hereby given that the Board of County Commissioners of Okaloosa County, FL, will accept bids until 3:00 May 27, 2026, for the Pocahontas Lift Station Replacement Project. The Project consists of site preparation, furnishing, and installation of a corrosion-proof polymer concrete precast wet well using the caisson method with tremie pour for the bottom seal. The scope includes clearing and grubbing the site, installing erosion and sedimentation controls, excavating for the wet well shaft, assembling and sealing wet well sections with retainer straps and watertight joints, pouring the tremie seal concrete, installing the secondary pour for the wet well bottom with chamfered edges, conducting buoyancy calculations, watertightness testing, and backfilling. Additionally, the scope include furnishing and installing two (2) ~25 HP submersible, heavy duty, explosion proof, non-clog sewer pumps, base elbows, stainless steel discharge piping and guide rail system; pump control panel, and all other appurtenances and related work required to complete the Work in accordance with the attached plans and specifications. The work is further defined as shown on the Plans and as described by the Contract Documents. Interested respondents desiring consideration shall submit their response online at OpenGov through the link provided below: Current Solicitations & Public Notices | Okaloosa County A mandatory pre-bid conference will be held at 9:00 AM local time on May 12, 2026 at the Okaloosa County Water and Sewer Field Office Conference Room, 1808 Lewis Turner Blvd, Fort Walton Beach, FL. Unless otherwise stipulated in the bid/bid description, all responses must be submitted using OpenGov only. No other means of submission of responses will be accepted. Responses will be accepted by OpenGov until 3:00 p.m. (CST) May 27, 2026 , at which time all bids that are timely submitted will be opened and reviewed. The County reserves the right to award the bid to the lowest responsive respondent and to waive any irregularity or technicality in bids received. Okaloosa County shall be the sole judge of the bid and the resulting Agreement that is in its best interest and its decision shall be final. For solicitation information, please contact: DeRita Mason, Purchasing Manager dmason@myokaloosa.com , 850-689-5960 _______________________________ _______________ DeRita Mason, Purchasing Manager Date OKALOOSA COUNTY BOARD OF COUNTY COMMISSIONERS ROBERT A. “TREY” GOODWIN, III, CHAIRMAN END OF DOCUMENT 00020 - ADVERTISEMENT FOR BIDS",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/okaloosa_county_florida_-_pocahontas_lift_station_replacement_project_-_itb_ws_52-26",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details:",
+        "url": "https://myokaloosa.com/purchasing/current-solicitations"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Bay County, Florida - Southport Water Treatment Plant Feasibility Study Re-Bid - RFQ 26-33",
+      "agency": "Bay County, Florida",
+      "title": "Southport Water Treatment Plant Feasibility Study Re-Bid - RFQ 26-33",
+      "solicitationNumber": "RFQ 26-33",
+      "category": "RFQ",
+      "published": "04/02/2026 2:36 PM",
+      "modified": "05/05/2026 3:43 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-06T18:30:00+00:00",
+        "india": "2026-05-07T00:00:00+05:30"
+      },
+      "message": "BOARD OF COUNTY COMMISSIONERS BAY COUNTY, FLORIDA INVITATION TO BID The Bay County Board of County Commissioners (County) seeks bids from qualified vendors to build three (3) additional sand gravity type filters at the Water Treatment Plant located at 3400 Transmitter Road, Panama City, FL 32404. Work shall be completed in accordance with the Barge Design Solutions Specifications included as Exhibit 2. Funding for the project may be made possible through the Florida Department of Environmental Protection (FDEP) through the State Revolving Fund (SRF) Program and is contingent on strict conformance to the guidelines set forth by FDEP and the EPA. Respondents shall comply with the FDEP Supplementary Conditions and the labor standards clauses shown at Exhibit 4. Vendors shall be Florida licensed General Contractor. Sub-Contractors shall be Florida licensed in applicable trades. Vendors shall identify subcontractors that are providing services requiring a license under Florida law. Bids may be deemed nonresponsive if not accompanied by proof of any applicable State of Florida license. MANDATORY PRE-BID MEETING A MANDATORY Pre-Bid Meeting will be held at 10:00 a.m. (CDT), Wednesday, May 13, May 12, 2026 in the Board of County Commissioners Purchasing Department, at 840 W. 11 th Street, Suite 2500, Panama City, Florida 32401. Note: Respondents shall attend the pre-bid meeting. Any respondent who fails to attend will be deemed non-responsive and automatically disqualified from further consideration. The purpose of this meeting is to familiarize respondents with the project and answer questions. All respondents must be present and signed in prior to the start of the Mandatory Pre-Bid Meeting. The convener of the meeting will collect the sign in sheet(s) and the meeting will “Officially” start. Anyone not signed in at the “Official” start of the meeting will be considered late and will not be allowed to propose on the project. Please allow 10 to 15 minutes to sign in prior to the start of the Mandatory Pre-Bid Meeting. In the event that any discussions or questions at the pre-bid meeting or afterward require additional clarification the COUNTY will issue a written summary of questions and answers as an addendum to this Invitation to Bid. BID DEADLINE/DELIVERY ELECTRONIC OR SEALED PAPER BIDS for ITB NO: 26-35 Water Treatment Plant (WTP) Resiliency Project Additional Filters will be received by the BOARD OF COUNTY COMMISSIONERS OF BAY COUNTY, FLORIDA up until 2:00 pm (CDT) Thursday, June 4, 2026. Bids will be publicly opened immediately following the deadline. ANY BID RECEIVED AFTER THE SPECIFIED TIME WILL NOT BE CONSIDERED. Electronic versions of the solicitation documents are available via OPENGOV Procurement https://procurement.opengov.com/signup Special Accommodation: Any person requiring a special accommodation at a Pre-Bid Conference or Bid opening because of a disability should call the Purchasing Department at (850) 248-8270 at least five (5) workdays prior to the Pre‑Bid Conference or Bid opening. For Hearing Impaired, Dial 1-800-955-8771 (TOO), and 1-800-955-8770 (Voice). The Bay County Board of County Commissioners reserves the right to accept or reject any and/or all proposals in the best interest of Bay County. Bay County is an Equal Opportunity Employer. Bay County hereby notifies all Respondents that it will affirmatively insure that a contract entered into pursuant to this advertisement will be afforded the full opportunity to submit submittals in response to this invitation and will not be discriminated against on the grounds of race, color, religion, sex, national origin, age, disability, sexual preference, marital or veteran status, or any legally protected status in consideration for an award. Ken Longstreet Grant Procurement Administrator",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/bay_county_florida_-_southport_water_treatment_plant_feasibility_study_re-bid_-_rfq_26-33",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details:",
+        "url": "https://www.baycountyfl.gov/bids.aspx?bidID=594"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Milton, Florida - Pine Straw Supply, Delivery, and Installation Services - ITB – 2026.04",
+      "agency": "City of Milton, Florida",
+      "title": "Pine Straw Supply, Delivery, and Installation Services - ITB – 2026.04",
+      "solicitationNumber": "",
+      "category": "ITB",
+      "published": "04/30/2026 7:46 AM",
+      "modified": "05/05/2026 2:56 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-27T18:00:00+00:00",
+        "india": "2026-05-27T23:30:00+05:30"
+      },
+      "message": "Description: The City is soliciting sealed bids from qualified contractors to supply, deliver, and install pine straw and related ground cover materials at City-owned and City-maintained property, public rights-of-way, highway corridors, medians, easements, and other City-designated locations on an as-needed basis.",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_milton_florida_-_pine_straw_supply_delivery_and_installation_services_-_itb_2026.04",
+      "attachment": {
+        "fileName": "SOLICITATION - 2026.04 ITB Pine Straw Supply Delivery Install Services.pdf",
+        "fileSize": 474018,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/455842/9622402?version=3",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0068_SOLICITATION - 2026.04 ITB Pine Straw Supply Delivery Install Services.pdf"
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://www.miltonfl.org/bids.aspx?bidID=120"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Wakulla County, Florida - PROFESSIONAL SERVICES FOR LAKE ELLEN SEPTIC TO SEWER PROJECT - RFQ 2026-08",
+      "agency": "Wakulla County, Florida",
+      "title": "PROFESSIONAL SERVICES FOR LAKE ELLEN SEPTIC TO SEWER PROJECT - RFQ 2026-08",
+      "solicitationNumber": "RFQ 2026-08",
+      "category": "RFQ",
+      "published": "04/30/2026 8:29 AM",
+      "modified": "05/05/2026 2:44 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-30T19:00:00+00:00",
+        "india": "2026-05-31T00:30:00+05:30"
+      },
+      "message": "INTENT AND GENERAL INFORMATION REQUEST FOR QUALIFICATIONS NUMBER 2026-08 PROFESSIONAL SERVICES FOR LAKE ELLEN SEPTIC TO SEWER PROJECT PROPOSAL ADVERTISE DATE: APRIL 30, 2026 PROPOSAL RELEASE DATE: APRIL 30, 2026 RESPONSE DUE DATE AND TIME: MAY 30, 2026 @ 3:00 P.M. MAIL OR HAND DELIVER RESPONSE TO: Wakulla County Board of County Commissioners ATTN: RFQ 2026-08 3093 Crawfordville Highway Crawfordville, FL 32327 CONTACT: Wakulla County BOCC Procurement Office Email: Procurement@mywakulla.com Phone: 850-926-0919, Ext. 715",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/wakulla_county_florida_-_professional_services_for_lake_ellen_septic_to_sewer_project_-_rfq_2026-08",
+      "attachment": {
+        "fileName": "RFQ 2026-08 Proposal Forms.remediated.pdf",
+        "fileSize": 1453949,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/455841/9622394?version=2",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0069_RFQ 2026-08 Proposal Forms.remediated.pdf"
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://www.mywakulla.com/bids_and_procurements/2026_bids_and_procurements.php#outer-9266:~:text=RFQ%202026%2D08,08%20Proposal%20Forms"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Melbourne - E. New Haven Avenue Downtown Retrofit & Streetscape - Provide Engineering Services RFQ-17123-0-2026/KB",
+      "agency": "City of Melbourne",
+      "title": "E. New Haven Avenue Downtown Retrofit & Streetscape - Provide Engineering Services RFQ-17123-0-2026/KB",
+      "solicitationNumber": "RFQ-17123-0-2026/KB",
+      "category": "RFQ",
+      "published": "05/05/2026 1:47 PM",
+      "modified": "05/05/2026 2:21 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-04T19:00:00+00:00",
+        "india": "2026-06-05T00:30:00+05:30"
+      },
+      "message": "REQUEST FOR QUALIFICATIONS TO PROVIDE PROFESSIONAL ENGINEERING SERVICES CITY OF MELBOURNE, FLORIDA CLOSING DATE: June 4, 2026 at 3:00 PM PURPOSE In accordance with United States Code (U.S.C.) Title 40, Sections 1101-1104 (Federal Brooks Act), F.S. 287.055 and the City’s standard selection procedures, the City of Melbourne is soliciting Statements of Qualifications to provide the following: PROFESSIONAL ENGINEERING SERVICES - E. NEW HAVEN AVENUE DOWNTOWN RETROFIT & STREETSCAPE PROJECT The City of Melbourne requires professional consulting engineering services for East New Haven Avenue in historical downtown Melbourne and other streets adjacent to the downtown. Design elements include roadway design to allow for the conversion of angled parking to parallel parking along E. New Haven Avenue to accommodate wider sidewalks and additional storefront width in compliance with the American with Disabilities Act (ADA); storm water collection system design, utility relocation design including laterals, fire hydrants, water services, sewer services; landscape, irrigation, hardscape designs, including decorative crosswalks, tree wells, seating benches, trash receptacles; pedestrian and roadway decorative lighting design and other ancillary design.. Public outreach/involvement and permitting are also anticipated. The estimated construction cost is approximately $17.1 million. SCHEDULE The following dates and activities identify proposed project schedule milestone. Changes to this schedule by the City of Melbourne will be provided in writing on Demandstar.com. Advertisement May 4, 2026 Cutoff Date for Questions May 21, 2026 (by close of business) Last Addendum To be issued no later than May 25, 2026 RFQ Due Date and Time June 4, 2026 (no later than 3 p.m.) Short-listed Firm Notification June 16, 2026 Presentations by Short-listed Firms June 30, 2026 Recommendation of Selected Firm July 14, 2026 Negotiations Period July 15, 2026 to August 17, 2026 Contract Award August 25, 2026 Notice to Proceed August 28, 2026 Sealed qualification submittals will be received by the Engineering Department for City of Melbourne, FL at 900 E Strawbridge Avenue, Melbourne, FL 32901 until 3:00 PM on June 4, 2026. PRE-SUBMITTAL CONTACT Kacie Black, Engineering Contract manager, is the designated point of contact for the project. If technical or procedural questions arise, Ms. Black is the only City representative who will respond . She can be reached at: Kacie Black Tel: (321) 608-7309 900 East Strawbridge Avenue Fax: (321) 608-7319 Melbourne, Florida 32901 Email: kacie.black@mlbfl.org Consultants may be asked to submit their questions in writing. CONSULTANTS ARE INSTRUCTED TO CONTACT ONLY THE DESIGNATED POINT OF CONTACT. NO OTHER CITY EMPLOYEES MAY BE CONTACTED ABOUT THIS PROPOSAL DURING THE SELECTION PROCESS. Instructions, specifications and forms for submitting proposals may be found on Demandstar’s bid distribution system or by calling Kacie Black, Engineering Contract Manager at 321-608-7309. Submittals are received in accordance with the City Charter and Code of Ordinances of the City of Melbourne, Florida. The City reserves the right to reject any and all proposals, and to waive technicalities and informalities.",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_melbourne_-_e._new_haven_avenue_downtown_retrofit_streetscape_-_provide_engineering_services_rfq-17123-0-2026_kb",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://www.demandstar.com/app/limited/bids/530795/details"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "SHIP - NED Home Demo and Replacement House - 4525 Havre Way - PD-25-26.066",
+      "agency": "SHIP",
+      "title": "NED Home Demo and Replacement House - 4525 Havre Way - PD-25-26.066",
+      "solicitationNumber": "PD-25-26.066",
+      "category": "",
+      "published": "04/28/2026 6:25 AM",
+      "modified": "04/28/2026 6:42 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-22T14:00:00+00:00",
+        "india": "2026-05-22T19:30:00+05:30"
+      },
+      "message": "Summary This project involves the demolition of an existing single-family home and the subsequent rebuilding of a single-family home per the attached plans and specifications. Timeline Release Project Date: April 21, 2026 Pre-Bid Meeting (Non-Mandatory): April 28, 2026, 10:00am 4525 Havre Way Pensacola, Fl 32505 Question Submission Deadline: May 15, 2026, 12:00pm Bid Opening: May 22, 2026, 10:00am Office of Purchasing 213 Palafox Place, 2nd Floor Pensacola, FL 32502 Microsoft Teams meeting Join: https://teams.microsoft.com/meet/282360020008897?p=S9O6J76kIlXSUwkBAa Meeting ID: 282 360 020 008 897 Passcode: tg9ai684 ________________________________________ Need help? | System reference Dial in by phone +1 863-333-5817,,474697338# United States, Lakeland Find a local number Phone conference ID: 474 697 338#",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/ship_-_ned_home_demo_and_replacement_house_-_4525_havre_way_-_pd-25-26.066",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://procurement.opengov.com/portal/escambiacountyfl/projects/257552"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "SHIP - NED Demo and Replacement House - 2905 Buddys Lane - PD 25-26.065",
+      "agency": "SHIP",
+      "title": "NED Demo and Replacement House - 2905 Buddys Lane - PD 25-26.065",
+      "solicitationNumber": "PD 25-26.065",
+      "category": "",
+      "published": "04/28/2026 6:35 AM",
+      "modified": "04/28/2026 6:39 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-22T15:00:00+00:00",
+        "india": "2026-05-22T20:30:00+05:30"
+      },
+      "message": "Summary This project involves the demolition of an existing single-family home and the subsequent rebuilding of a single-family home per the attached plans and specifications. Timeline Release Project Date: April 23, 2026 Pre-Bid Meeting (Non-Mandatory): April 28, 2026, 9:00am Walk through at: 2905 Buddys Lane, Pensacola, FL 32505 Question Submission Deadline: May 13, 2026, 10:00am Bid Opening: May 22, 2026, 11:00am Office of Purchasing Escambia County Board of County Commissioners 213 Palafox Place, 2nd Floor, Pensacola, FL 32502 Microsoft Teams meeting Join: https://teams.microsoft.com/meet/27056731593213?p=k0mLGWn56j9mOkBK1Y Meeting ID: 270 567 315 932 13 Passcode: bX2aj3rB ________________________________________ Need help? | System reference Dial in by phone +1 863-333-5817,,183251269# United States, Lakeland Find a local number Phone conference ID: 183 251 269#",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/ship_-_ned_demo_and_replacement_house_-_2905_buddys_lane_-_pd_25-26.065",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://procurement.opengov.com/portal/escambiacountyfl/projects/257550"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "East Martello Historic Masonry Restoration Monroe County, Florida - RFP-631",
+      "agency": "East Martello Historic Masonry Restoration Monroe County, Florida",
+      "title": "RFP-631",
+      "solicitationNumber": "RFP-631",
+      "category": "RFP",
+      "published": "04/28/2026 6:18 AM",
+      "modified": "04/28/2026 6:23 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-04T19:00:00+00:00",
+        "india": "2026-06-05T00:30:00+05:30"
+      },
+      "message": "NOTICE OF REQUEST FOR COMPETITIVE SOLICITATIONS NOTICE IS HEREBY GIVEN that on Thursday, June 4, 2026, at 3:00 P.M., the Monroe County Purchasing Office will receive and open sealed responses for the following: East Martello Historic Masonry Restoration Monroe County, Florida Pursuant to F.S. § 50.0211(3)(a), all published competitive solicitation notices can be viewed at: www.floridapublicnotices.com, a searchable Statewide repository for all published legal notices. Requirements for submission and the selection criteria may be requested from the County’s electronic bidding platform at https://monroecounty-fl.bonfirehub.com OR www.monroecounty-fl.gov/BonfireBids . The Public Record is available upon request. Monroe County Purchasing Department receives bids via the Bonfire electronic bidding platform. Please do not email, mail or attempt to deliver in person any sealed bids. Emailed/mailed/physically delivered bids/proposals/responses WILL NOT be accepted. The Monroe County Purchasing Department hereby directs that bids be submitted via the Bonfire electronic bidding platform at https://monroecounty-fl.bonfirehub.com , no later than 3:00 P.M. on Thursday, June 4, 2026 . There is no cost to the bidder to use the Bonfire platform. Please do not submit your confidential financial information as part of your proposal. There are separate uploads for each set of documents, including confidential financial information. All proposals will be made public on the platform after an intended decision or 30 days, whichever is earlier, unless the bids/proposals are rejected in accordance with F.S. 119.071. If your proposal document includes financial information, that information will not be considered confidential and will be available and viewable to the public in accordance with public records law. In the event of a discrepancy between the bid amount on the Proposal Form and the bid amount entered in Bonfire, the bid amount listed in the “Proposal Form” provided by Monroe County in the RFP is the amount that will be utilized by the County when considering the bid proposal. The County reserves the right to waive any proposal/bid irregularity. The bid opening for this solicitation will be held virtually, via the internet, at 3:00 P.M. , on Thursday, June 4, 2026. You may call in by phone or internet using the following: Join Zoom Meeting https://mcbocc.zoom.us/j/4509326156 Meeting ID: 4509326156 One tap mobile: +16465189805,,4509326156# US (New York) +16699006833,,4509326156# US (San Jose) Dial by your location: +1 646 518 9805 US (New York) +1 669 900 6833 US (San Jose) Publication Dates Keys Citizen: Sat., 04/25/2026 Keys Weekly: Thur., 04/30/2026 News Barometer: Fri., 05/01/2026",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/east_martello_historic_masonry_restoration_monroe_county_florida_-_rfp-631",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "",
+        "url": ""
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Workers’ Compensation Third Party Claims Administration Services Monroe County, Florida",
+      "agency": "",
+      "title": "Workers’ Compensation Third Party Claims Administration Services Monroe County, Florida",
+      "solicitationNumber": "",
+      "category": "",
+      "published": "04/28/2026 12:00 PM",
+      "modified": "04/28/2026 6:18 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-07-16T19:00:00+00:00",
+        "india": "2026-07-17T00:30:00+05:30"
+      },
+      "message": "NOTICE OF REQUEST FOR COMPETITIVE SOLICITATIONS NOTICE IS HEREBY GIVEN that on Thursday, July 16, 2026, at 3:00 P.M., the Monroe County Purchasing Office will receive and open sealed responses for the following: Workers’ Compensation Third Party Claims Administration Services Monroe County, Florida Pursuant to F.S. § 50.0211(3)(a), all published competitive solicitation notices can be viewed at: www.floridapublicnotices.com, a searchable Statewide repository for all published legal notices. Requirements for submission and the selection criteria may be requested from the County’s electronic bidding platform at https://monroecounty-fl.bonfirehub.com OR www.monroecounty-fl.gov/BonfireBids . The Public Record is available upon request. Monroe County Purchasing Department receives bids via the Bonfire electronic bidding platform. Please do not email, mail or attempt to deliver in person any sealed bids. Emailed/mailed/physically delivered bids/proposals/responses WILL NOT be accepted. The Monroe County Purchasing Department hereby directs that bids be submitted via the Bonfire electronic bidding platform at https://monroecounty-fl.bonfirehub.com , no later than 3:00P.M. on July 16, 2026 . There is no cost to the bidder to use the Bonfire platform. Please do not submit your confidential financial information as part of your proposal. There are separate uploads for each set of documents, including confidential financial information. All proposals will be made public on the platform after an intended decision or 30 days, whichever is earlier, unless the bids/proposals are rejected in accordance with F.S. 119.071. If your proposal document includes financial information, that information will not be considered confidential and will be available and viewable to the public in accordance with public records law. The bid opening for this solicitation will be held virtually, via the internet, at 3:00 P.M., on Thursday, July 16, 2026 . You may call in by phone or internet using the following: Join Zoom Meeting https://mcbocc.zoom.us/j/4509326156 Meeting ID: 4509326156 One tap mobile: +16465189805,,4509326156# US (New York) +16699006833,,4509326156# US (San Jose) Dial by your location: +1 646 518 9805 US (New York) +1 669 900 6833 US (San Jose) Publication Dates Keys Citizen: Sat., 05-02-2026 Keys Weekly: Thur., 05-07-2026 News Barometer: Fri., 05-08-2026",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/workers_compensation_third_party_claims_administration_services_monroe_county_florida",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://monroecounty-fl.bonfirehub.com"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Board of County Commissioners of Okaloosa County, FL - PUBLIC TRANSPORTATION SERVICES - RFP ITN TS 47-26",
+      "agency": "Board of County Commissioners of Okaloosa County, FL",
+      "title": "PUBLIC TRANSPORTATION SERVICES - RFP ITN TS 47-26",
+      "solicitationNumber": "",
+      "category": "RFP",
+      "published": "04/21/2026 3:16 PM",
+      "modified": "04/21/2026 3:18 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-20T09:00:00+00:00",
+        "india": "2026-05-20T14:30:00+05:30"
+      },
+      "message": "PUBLIC TRANSPORTATION SERVICES RFP ITN TS 47-26",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/board_of_county_commissioners_of_okaloosa_county_fl_-_public_transportation_services_-_rfp_itn_ts_47-26",
+      "attachment": {
+        "fileName": "ITN TS 47-26.pdf",
+        "fileSize": 26452,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454798/9598038?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0075_ITN TS 47-26.pdf"
+      },
+      "originalSite": {
+        "text": "click for more details",
+        "url": "https://procurement.opengov.com/portal/myokaloosa/projects/257858"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Santa Rosa County Board of County Commissioners - Septic to Distributed Wastewater Treatment System Program - RFP 26-031",
+      "agency": "Santa Rosa County Board of County Commissioners",
+      "title": "Septic to Distributed Wastewater Treatment System Program - RFP 26-031",
+      "solicitationNumber": "RFP 26-031",
+      "category": "RFP",
+      "published": "04/21/2026 3:13 PM",
+      "modified": "04/21/2026 3:15 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-20T14:00:00+00:00",
+        "india": "2026-05-20T19:30:00+05:30"
+      },
+      "message": "Septic to Distributed Wastewater Treatment System Program RFP 26-031",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/santa_rosa_county_board_of_county_commissioners_-_septic_to_distributed_wastewater_treatment_system_program_-_rfp_26-031",
+      "attachment": {
+        "fileName": "26-031 Legal Notice.docx",
+        "fileSize": 76556,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454796/9598022?version=1"
+      },
+      "originalSite": {
+        "text": "click for more details",
+        "url": "https://procurement.opengov.com/portal/santarosafl"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Monroe County, Florida - Long Key Transfer Station New Storage Building - RFP 628",
+      "agency": "Monroe County, Florida",
+      "title": "Long Key Transfer Station New Storage Building - RFP 628",
+      "solicitationNumber": "RFP 628",
+      "category": "RFP",
+      "published": "04/21/2026 3:10 PM",
+      "modified": "04/21/2026 3:12 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-03T07:00:00+00:00",
+        "india": "2026-06-03T12:30:00+05:30"
+      },
+      "message": "Long Key Transfer Station New Storage Building RFP 628",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/monroe_county_florida_-_long_key_transfer_station_new_storage_building_-_rfp_628",
+      "attachment": {
+        "fileName": "Notice-Long Key Transfer Station New Storage Bldg.docx",
+        "fileSize": 17718,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454795/9598014?version=1"
+      },
+      "originalSite": {
+        "text": "click for more details",
+        "url": "https://monroecounty-fl.bonfirehub.com/portal/?tab=openOpportunities"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County Board of County Commissioners (BOCC) – CEI - Bob Sikes Fishing Pier South RESTORE -RFQ (PD 25-26.064)",
+      "agency": "Escambia County Board of County Commissioners (BOCC) – CEI",
+      "title": "Bob Sikes Fishing Pier South RESTORE -RFQ (PD 25-26.064)",
+      "solicitationNumber": "PD 25-26.064",
+      "category": "RFQ",
+      "published": "04/17/2026 3:17 PM",
+      "modified": "04/17/2026 3:18 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-19T05:00:00+00:00",
+        "india": "2026-05-19T10:30:00+05:30"
+      },
+      "message": "Bob Sikes Fishing Pier South - RESTORE RFQ (PD 25-26.064)",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_board_of_county_commissioners_bocc_cei_-_bob_sikes_fishing_pier_south_restore_-rfq_pd_25-26.064",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://procurement.opengov.com/portal/escambiacountyfl/projects/256333"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Santa Rosa County Board of County Commissioners - Disaster Debris Removal Services - RFP 26-035",
+      "agency": "Santa Rosa County Board of County Commissioners",
+      "title": "Disaster Debris Removal Services - RFP 26-035",
+      "solicitationNumber": "RFP 26-035",
+      "category": "RFP",
+      "published": "04/17/2026 8:02 AM",
+      "modified": "04/17/2026 8:11 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-19T14:30:00+00:00",
+        "india": "2026-05-19T20:00:00+05:30"
+      },
+      "message": "Disaster Debris Removal Services RFP 26-035",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/santa_rosa_county_board_of_county_commissioners_-_disaster_debris_removal_services_-_rfp_26-035",
+      "attachment": {
+        "fileName": "26-035 Legal Notice.docx",
+        "fileSize": 72790,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454442/9590136?version=1"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/santarosafl"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Santa Rosa County Board of County Commissioners - Disaster Debris Monitoring and Support Services - RFP 26-034",
+      "agency": "Santa Rosa County Board of County Commissioners",
+      "title": "Disaster Debris Monitoring and Support Services - RFP 26-034",
+      "solicitationNumber": "RFP 26-034",
+      "category": "RFP",
+      "published": "04/17/2026 7:56 AM",
+      "modified": "04/17/2026 8:01 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-19T14:00:00+00:00",
+        "india": "2026-05-19T19:30:00+05:30"
+      },
+      "message": "Disaster Debris Monitoring and Support Services RFP 26-034",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/santa_rosa_county_board_of_county_commissioners_-_disaster_debris_monitoring_and_support_services_-_rfp_26-034",
+      "attachment": {
+        "fileName": "26-034 Legal Notice.docx",
+        "fileSize": 72077,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454441/9590128?version=1"
+      },
+      "originalSite": {
+        "text": "Click for more details",
+        "url": "https://procurement.opengov.com/portal/santarosafl"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Hillsborough County Sheriff’s Office - Janitorial Supplies - 2026-009",
+      "agency": "Hillsborough County Sheriff’s Office",
+      "title": "Janitorial Supplies - 2026-009",
+      "solicitationNumber": "",
+      "category": "",
+      "published": "04/17/2026 7:52 AM",
+      "modified": "04/17/2026 7:55 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-22T07:00:00+00:00",
+        "india": "2026-05-22T12:30:00+05:30"
+      },
+      "message": "Janitorial Supplies 2026-009",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/hillsborough_county_sheriff_s_office_-_janitorial_supplies_-_2026-009",
+      "attachment": {
+        "fileName": "OSD and HCFL Advertisement for Monday April 20, 2026.docx",
+        "fileSize": 22129,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454440/9590120?version=1"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://teamhcso.com/purchasing"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Bay County Board of County Commissioners - NRDA Artificial Reef Phase IV - RFP 26-23",
+      "agency": "The Bay County Board of County Commissioners",
+      "title": "NRDA Artificial Reef Phase IV - RFP 26-23",
+      "solicitationNumber": "RFP 26-23",
+      "category": "RFP",
+      "published": "04/16/2026 3:28 PM",
+      "modified": "04/16/2026 3:30 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-19T06:00:00+00:00",
+        "india": "2026-05-19T11:30:00+05:30"
+      },
+      "message": "NRDA Artificial Reef Phase IV RFP 26-23",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_bay_county_board_of_county_commissioners_-_nrda_artificial_reef_phase_iv_-_rfp_26-23",
+      "attachment": {
+        "fileName": "26-23 Legal Ad.doc",
+        "fileSize": 36864,
+        "mimeType": "application/msword",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454387/9588688?version=1"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://procurement.opengov.com/signup"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Santa Rosa County Board of County Commissioners - Sale of Property - ITB 26-033",
+      "agency": "Santa Rosa County Board of County Commissioners",
+      "title": "Sale of Property - ITB 26-033",
+      "solicitationNumber": "ITB 26-033",
+      "category": "ITB",
+      "published": "04/16/2026 3:24 PM",
+      "modified": "04/16/2026 3:27 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-01T14:00:00+00:00",
+        "india": "2026-05-01T19:30:00+05:30"
+      },
+      "message": "Sale of Property ITB 26-033",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/santa_rosa_county_board_of_county_commissioners_-_sale_of_property_-_itb_26-033",
+      "attachment": {
+        "fileName": "26-033 Legal Notice.docx",
+        "fileSize": 75322,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454386/9588680?version=1"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://procurement.opengov.com/portal/santarosafl"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Santa Rosa County Board of County Commissioners - Peter Prince Field West Apron Rehabilitation - ITB 26-030",
+      "agency": "Santa Rosa County Board of County Commissioners",
+      "title": "Peter Prince Field West Apron Rehabilitation - ITB 26-030",
+      "solicitationNumber": "ITB 26-030",
+      "category": "ITB",
+      "published": "04/16/2026 3:22 PM",
+      "modified": "04/16/2026 3:24 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-15T14:00:00+00:00",
+        "india": "2026-05-15T19:30:00+05:30"
+      },
+      "message": "Peter Prince Field West Apron Rehabilitation ITB 26-030",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/santa_rosa_county_board_of_county_commissioners_-_peter_prince_field_west_apron_rehabilitation_-_itb_26-030",
+      "attachment": {
+        "fileName": "26-030 Legal Notice.docx",
+        "fileSize": 76807,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454385/9588672?version=1"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://procurement.opengov.com/portal/santarosafl/projects/251815"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Santa Rosa County Board of County Commissioners - Oriole Beach Elementary Drainage Improvements - ITB 26-032",
+      "agency": "Santa Rosa County Board of County Commissioners",
+      "title": "Oriole Beach Elementary Drainage Improvements - ITB 26-032",
+      "solicitationNumber": "ITB 26-032",
+      "category": "ITB",
+      "published": "04/16/2026 3:20 PM",
+      "modified": "04/16/2026 3:22 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-07T14:00:00+00:00",
+        "india": "2026-05-07T19:30:00+05:30"
+      },
+      "message": "Oriole Beach Elementary Drainage Improvements ITB 26-032",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/santa_rosa_county_board_of_county_commissioners_-_oriole_beach_elementary_drainage_improvements_-_itb_26-032",
+      "attachment": {
+        "fileName": "26-032 Legal Notice.docx",
+        "fileSize": 76497,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454384/9588664?version=1"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://procurement.opengov.com/portal/santarosafl"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Bay County Board of County Commissioners - Clean Fill Dirt - ITB NO: 26-34",
+      "agency": "The Bay County Board of County Commissioners",
+      "title": "Clean Fill Dirt - ITB NO: 26-34",
+      "solicitationNumber": "ITB NO: 26-34",
+      "category": "ITB",
+      "published": "04/16/2026 3:17 PM",
+      "modified": "04/16/2026 3:19 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-19T06:30:00+00:00",
+        "india": "2026-05-19T12:00:00+05:30"
+      },
+      "message": "Clean Fill Dirt ITB NO: 26-34",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_bay_county_board_of_county_commissioners_-_clean_fill_dirt_-_itb_no_26-34",
+      "attachment": {
+        "fileName": "26-34 Legal Ad.doc",
+        "fileSize": 31232,
+        "mimeType": "application/msword",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454383/9588656?version=1"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://procurement.opengov.com/signup"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Demolition & Debris Removal - Steamboat Landing (CRA)- ITB 26-007",
+      "agency": "Demolition & Debris Removal",
+      "title": "Steamboat Landing (CRA)- ITB 26-007",
+      "solicitationNumber": "ITB 26-007",
+      "category": "ITB",
+      "published": "04/16/2026 7:54 AM",
+      "modified": "04/16/2026 7:58 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-12T06:00:00+00:00",
+        "india": "2026-05-12T11:30:00+05:30"
+      },
+      "message": "Demolition & Debris Removal - Steamboat Landing (CRA) ITB 26-007",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/demolition_debris_removal_-_steamboat_landing_cra_-_itb_26-007",
+      "attachment": {
+        "fileName": "Bid Doc; FINAL; 2026 04-14.pdf",
+        "fileSize": 524272,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454369/9588577?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0087_Bid Doc; FINAL; 2026 04-14.pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://www.bidnetdirect.com/florida/city-of-fort-walton-beach"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of Fort Walton Beach, FL - Purchase & Installation of Dumpster Enclosures for the CRA District - ITB 26-009",
+      "agency": "The City of Fort Walton Beach, FL",
+      "title": "Purchase & Installation of Dumpster Enclosures for the CRA District - ITB 26-009",
+      "solicitationNumber": "ITB 26-009",
+      "category": "ITB",
+      "published": "04/16/2026 7:51 AM",
+      "modified": "04/16/2026 7:53 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-07T06:00:00+00:00",
+        "india": "2026-05-07T11:30:00+05:30"
+      },
+      "message": "Purchase & Installation of Dumpster Enclosures for the CRA District ITB 26-009",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_fort_walton_beach_fl_-_purchase_installation_of_dumpster_enclosures_for_the_cra_district_-_itb_26-009",
+      "attachment": {
+        "fileName": "Bid Doc - Final 2026 04-09.pdf",
+        "fileSize": 1241790,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454368/9588569?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0088_Bid Doc - Final 2026 04-09.pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://www.bidnetdirect.com/florida/city-of-fort-walton-beach"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of Fort Walton Beach, FL -PRESSURE WASHING SERVICES-CRA - ITB 26-006",
+      "agency": "The City of Fort Walton Beach, FL -PRESSURE WASHING SERVICES-CRA",
+      "title": "ITB 26-006",
+      "solicitationNumber": "ITB 26-006",
+      "category": "ITB",
+      "published": "04/16/2026 7:47 AM",
+      "modified": "04/16/2026 7:50 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-04-30T06:00:00+00:00",
+        "india": "2026-04-30T11:30:00+05:30"
+      },
+      "message": "PRESSURE WASHING SERVICES-CRA ITB 26-006",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_fort_walton_beach_fl_-pressure_washing_services-cra_-_itb_26-006",
+      "attachment": {
+        "fileName": "Bid doc; Final; 2026 04-02.pdf",
+        "fileSize": 1724258,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454367/9588561?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0089_Bid doc; Final; 2026 04-02.pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://www.fwb.org/"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of Panama City - CDBG-DR HRP - 421 Oak Ave. Landscaping and Grounds - ITB PC26-024",
+      "agency": "City of Panama City",
+      "title": "CDBG-DR HRP - 421 Oak Ave. Landscaping and Grounds - ITB PC26-024",
+      "solicitationNumber": "ITB PC26-024",
+      "category": "ITB",
+      "published": "04/15/2026 2:24 PM",
+      "modified": "04/15/2026 2:25 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-13T15:00:00+00:00",
+        "india": "2026-05-13T20:30:00+05:30"
+      },
+      "message": "CDBG-DR HRP - 421 Oak Ave. Landscaping and Grounds ITB PC26-024",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_panama_city_-_cdbg-dr_hrp_-_421_oak_ave._landscaping_and_grounds_-_itb_pc26-024",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://www.panamacity.gov/bids.aspx?bidID=542"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of Panama City, Florida - Downtown Marina Boat Slips - ITB PC26-021",
+      "agency": "The City of Panama City, Florida",
+      "title": "Downtown Marina Boat Slips - ITB PC26-021",
+      "solicitationNumber": "ITB PC26-021",
+      "category": "ITB",
+      "published": "04/15/2026 2:21 PM",
+      "modified": "04/15/2026 2:23 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-06-17T15:00:00+00:00",
+        "india": "2026-06-17T20:30:00+05:30"
+      },
+      "message": "Downtown Marina Boat Slips ITB PC26-021",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_panama_city_florida_-_downtown_marina_boat_slips_-_itb_pc26-021",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://www.panamacity.gov/bids.aspx?bidID=541"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of Melbourne, Florida - LINE STREET CEMETERY FENCE & SIGNAGE - ITB 11625",
+      "agency": "The City of Melbourne, Florida",
+      "title": "LINE STREET CEMETERY FENCE & SIGNAGE - ITB 11625",
+      "solicitationNumber": "ITB 11625",
+      "category": "ITB",
+      "published": "04/15/2026 2:17 PM",
+      "modified": "04/15/2026 2:20 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-15T07:00:00+00:00",
+        "india": "2026-05-15T12:30:00+05:30"
+      },
+      "message": "LINE STREET CEMETERY FENCE & SIGNAGE ITB 11625",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_melbourne_florida_-_line_street_cemetery_fence_signage_-_itb_11625",
+      "attachment": {
+        "fileName": "11625-INVITATION TO BID.docx",
+        "fileSize": 17244,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454332/9587670?version=1"
+      },
+      "originalSite": {
+        "text": "",
+        "url": ""
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of St. Augustine - 2026 HISTORIC DOWNTOWN PARKING FACILITY REHABILITATION PROJECT - RFB 26017",
+      "agency": "The City of St. Augustine",
+      "title": "2026 HISTORIC DOWNTOWN PARKING FACILITY REHABILITATION PROJECT - RFB 26017",
+      "solicitationNumber": "RFB 26017",
+      "category": "RFB",
+      "published": "04/15/2026 2:15 PM",
+      "modified": "04/15/2026 2:17 PM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-27T06:00:00+00:00",
+        "india": "2026-05-27T11:30:00+05:30"
+      },
+      "message": "2026 HISTORIC DOWNTOWN PARKING FACILITY REHABILITATION PROJECT RFB 26017",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_st._augustine_-_2026_historic_downtown_parking_facility_rehabilitation_project_-_rfb_26017",
+      "attachment": {
+        "fileName": "Legal Notice (No Header).pdf",
+        "fileSize": 197904,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454331/9587662?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0093_Legal Notice (No Header).pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://procurement.opengov.com/portal/staugustine"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "Escambia County BOCC- Heavy Equipment Tractor and Trailer Repair Service - RFP PD 25-26.058",
+      "agency": "Escambia County BOCC- Heavy Equipment Tractor and Trailer Repair Service",
+      "title": "RFP PD 25-26.058",
+      "solicitationNumber": "PD 25-26.058",
+      "category": "RFP",
+      "published": "04/14/2026 10:00 AM",
+      "modified": "04/14/2026 10:03 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-04-30T14:30:00+00:00",
+        "india": "2026-04-30T20:00:00+05:30"
+      },
+      "message": "Heavy Equipment Tractor and Trailer Repair Service RFP PD 25-26.058",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/escambia_county_bocc-_heavy_equipment_tractor_and_trailer_repair_service_-_rfp_pd_25-26.058",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://procurement.opengov.com/portal/escambiacountyfl/projects/243891"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Bay County Board of County Commissioners - Hydrated Lime for the Water Treatment  - ITB 26-38",
+      "agency": "The Bay County Board of County Commissioners",
+      "title": "Hydrated Lime for the Water Treatment  - ITB 26-38",
+      "solicitationNumber": "ITB 26-38",
+      "category": "ITB",
+      "published": "04/14/2026 9:57 AM",
+      "modified": "04/14/2026 10:00 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-14T06:00:00+00:00",
+        "india": "2026-05-14T11:30:00+05:30"
+      },
+      "message": "Hydrated Lime for the Water Treatment ITB 26-38",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_bay_county_board_of_county_commissioners_-_hydrated_lime_for_the_water_treatment_-_itb_26-38",
+      "attachment": {
+        "fileName": "26-38 Legal Ad.docx",
+        "fileSize": 20319,
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/454229/9585492?version=1"
+      },
+      "originalSite": {
+        "text": "Click For More Details",
+        "url": "https://procurement.opengov.com/signup"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The City of Milton - Tree Trimming and Removal Services - ITB 2026.02",
+      "agency": "The City of Milton",
+      "title": "Tree Trimming and Removal Services - ITB 2026.02",
+      "solicitationNumber": "ITB 2026.02",
+      "category": "ITB",
+      "published": "04/13/2026 9:06 AM",
+      "modified": "04/13/2026 9:08 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-06T06:00:00+00:00",
+        "india": "2026-05-06T11:30:00+05:30"
+      },
+      "message": "Tree Trimming and Removal Services ITB 2026.02",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_city_of_milton_-_tree_trimming_and_removal_services_-_itb_2026.02",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click here for details",
+        "url": "https://www.miltonfl.org/bids.aspx?bidID=119"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Department of Environmental Protection - Drilling Services for Submerged Cave Systems in the Wakulla Basin - RFP-15624",
+      "agency": "The Department of Environmental Protection",
+      "title": "Drilling Services for Submerged Cave Systems in the Wakulla Basin - RFP-15624",
+      "solicitationNumber": "RFP-15624",
+      "category": "RFP",
+      "published": "04/09/2026 9:10 AM",
+      "modified": "04/09/2026 9:12 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-04T07:00:00+00:00",
+        "india": "2026-05-04T12:30:00+05:30"
+      },
+      "message": "Drilling Services for Submerged Cave Systems in the Wakulla Basin RFP-15624",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_department_of_environmental_protection_-_drilling_services_for_submerged_cave_systems_in_the_wakulla_basin_-_rfp-15624",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://vendor.myfloridamarketplace.com/search/bids/detail/15624"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "The Board of County Commissioners of Okaloosa County, FL - Construction Management at Risk (CMR) Services for the new Public Works & Growth Management Facility - RFQ PW 39-26",
+      "agency": "The Board of County Commissioners of Okaloosa County, FL",
+      "title": "Construction Management at Risk (CMR) Services for the new Public Works & Growth Management Facility - RFQ PW 39-26",
+      "solicitationNumber": "",
+      "category": "RFQ",
+      "published": "04/09/2026 8:39 AM",
+      "modified": "04/09/2026 9:08 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-04-28T07:00:00+00:00",
+        "india": "2026-04-28T12:30:00+05:30"
+      },
+      "message": "Construction Management at Risk (CMR) Services for the new Public Works & Growth Management Facility RFQ PW 39-26",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/the_board_of_county_commissioners_of_okaloosa_county_fl_-_construction_management_at_risk_cmr_services_for_the_new_public_works_growth_managem",
+      "attachment": {
+        "fileName": "RFQ PW 39-26.NTR.pdf",
+        "fileSize": 132518,
+        "mimeType": "application/pdf",
+        "downloadUrl": "https://www.dms.myflorida.com/content/download/453715/9572522?version=1",
+        "localPath": "C:\\Users\\naree\\Downloads\\rfps\\dms_myflorida\\florida_pdfs\\0098_RFQ PW 39-26.NTR.pdf"
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://procurement.opengov.com/portal/myokaloosa/projects/254192"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "City of St. Cloud - Holiday and Special Event Decoration Rental,  Installation, and Removal -  RFQ 2026- 036",
+      "agency": "City of St. Cloud",
+      "title": "Holiday and Special Event Decoration Rental,  Installation, and Removal -  RFQ 2026- 036",
+      "solicitationNumber": "RFQ 2026",
+      "category": "RFQ",
+      "published": "04/08/2026 9:18 AM",
+      "modified": "04/08/2026 9:19 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-05-07T14:00:00+00:00",
+        "india": "2026-05-07T19:30:00+05:30"
+      },
+      "message": "Holiday and Special Event Decoration Rental, Installation, and Removal RFQ 2026- 036",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/city_of_st._cloud_-_holiday_and_special_event_decoration_rental_installation_and_removal_-_rfq_2026-_036",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://procurement.opengov.com/portal/stcloud/projects/251146"
+      },
+      "detailError": ""
+    },
+    {
+      "subject": "SECO Energy, Florida - 2026 SECURITY UPDATES PROJECT CONSTRUCTION & DEMOLITION - 2026-31",
+      "agency": "SECO Energy, Florida",
+      "title": "2026 SECURITY UPDATES PROJECT CONSTRUCTION & DEMOLITION - 2026-31",
+      "solicitationNumber": "",
+      "category": "",
+      "published": "04/08/2026 9:14 AM",
+      "modified": "04/08/2026 9:17 AM",
+      "dmsArchiveTime": {
+        "utc": "2026-04-28T06:00:00+00:00",
+        "india": "2026-04-28T11:30:00+05:30"
+      },
+      "message": "2026 SECURITY UPDATES PROJECT CONSTRUCTION & DEMOLITION 2026-31",
+      "dmsPageUrl": "https://www.dms.myflorida.com/business_operations/state_purchasing/office_of_supplier_development_osd/vendor_resources/current_bid_opportunities/seco_energy_florida_-_2026_security_updates_project_construction_demolition_-_2026-31",
+      "attachment": {
+        "fileName": "",
+        "fileSize": null,
+        "mimeType": "",
+        "downloadUrl": ""
+      },
+      "originalSite": {
+        "text": "Click For More Information",
+        "url": "https://bidding.secoenergy.com"
+      },
+      "detailError": ""
+    }
+  ]
+}
