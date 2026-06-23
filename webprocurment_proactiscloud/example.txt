@@ -1,0 +1,140 @@
+{
+      "bid_id": 143811,
+      "bid_number": "B-26-07",
+      "title": "Professional Engineering Services – Oil Tanks",
+      "description": "The Town of Brookfield, acting through Brookfield Public Schools (hereinafter “Owner”), invites qualified firms to submit sealed proposals for professional engineering services for the evaluation, design, and construction administration of fuel oil storage system upgrades at Whisconier Middle School (WMS) Brookfield High School (BHS).",
+      "status": "Open",
+      "solicitation_type": "Request for Proposal",
+      "start_date": 1779906600000,
+      "open_date": 1782745200000,
+      "end_date": null,
+      "status_date": 1780948884000,
+      "owner_org": "State of CT - DAS Procurement",
+      "owner_org_id": 149300,
+      "creator_org": "Brookfield, Town of",
+      "creator_org_id": 164096,
+      "contact_info": "Julian Capadose\r\n100 Pocono Road Brookfield CT, 06804 United States\r\nTel: 203-775-7323\r\nFax: \r\npurchasing@brookfieldct.gov",
+      "contact_name": "Julian Capadose",
+      "contact_address": "100 Pocono Road Brookfield CT, 06804 United States",
+      "contact_phone": "203-775-7323",
+      "contact_fax": "",
+      "contact_email": "purchasing@brookfieldct.gov",
+      "has_addendums": true,
+      "bid_respond_access_type": "All Vendors",
+      "public_detail_url": "https://webprocure.proactiscloud.com/wp-web-public/#/bidboard/bid/143811?customerid=51&searchterm=%2A&pagenumber=1&oid=-1",
+      "detail_api_url": "https://webprocure.proactiscloud.com/wp-full-text-search/soldetail/143811?customerid=51&oid=-1",
+      "summary_pdf_url": "https://webprocure.proactiscloud.com/MainBidBoard/solicitation_document.pdf?ac=2&bidid=143811&oid=149300&bidoid=164096",
+      "line_items_download_url": "https://webprocure.proactiscloud.com/public/bb/51/143811/lineitem-spreadsheet/download.do",
+      "document_info": {
+        "hasDocuments": true,
+        "hasMandatoryDocuments": true,
+        "mandatoryDocuments": [
+          {
+            "docid": 1896630
+          }
+        ],
+        "hasLineItemAttachements": false,
+        "hasAddendumDocs": true,
+        "addendumDocs": [
+          {
+            "docid": 1902412
+          },
+          {
+            "docid": 1901323
+          },
+          {
+            "docid": 1902411
+          }
+        ],
+        "hasSolAddenda": true,
+        "solAddendaDocs": [
+          {
+            "docid": 1901350,
+            "name": "VendorChangeDetailsReport_B-26-07_v1_Jun_5_26.pdf",
+            "owner_oid": 149300
+          },
+          {
+            "docid": 1902423,
+            "name": "VendorChangeDetailsReport_B-26-07_v2_Jun_8_26.pdf",
+            "owner_oid": 149300
+          }
+        ],
+        "hasDownloadable": true,
+        "removeAttachmentsforCanceledOrRetractedSolicitations": true,
+        "awardReports": [],
+        "isAwardReportPublished": false,
+        "currentBidId": 143811,
+        "changeLogs": []
+      },
+      "bid_documents": [
+        {
+          "name": "WMS STORM DRAIN AND SEPTIC 2000_20190509_0001.pdf",
+          "docid": 1902412,
+          "owner_id": 149300,
+          "protected_download_url": "https://webprocure.proactiscloud.com/MainBidBoard?ac=4&docid=1902412&owner_id=149300&bid=143811"
+        },
+        {
+          "name": "B-26-07 Oil Tanks - Addendum 1.docx",
+          "docid": 1901323,
+          "owner_id": 149300,
+          "protected_download_url": "https://webprocure.proactiscloud.com/MainBidBoard?ac=4&docid=1901323&owner_id=149300&bid=143811"
+        },
+        {
+          "name": "B-26-07 Oil Tanks - Addendum 2.docx",
+          "docid": 1902411,
+          "owner_id": 149300,
+          "protected_download_url": "https://webprocure.proactiscloud.com/MainBidBoard?ac=4&docid=1902411&owner_id=149300&bid=143811"
+        },
+        {
+          "name": "B-26-07 Oil Tanks - RFP.pdf",
+          "docid": 1896630,
+          "owner_id": 149300,
+          "protected_download_url": "https://webprocure.proactiscloud.com/MainBidBoard?ac=4&docid=1896630&owner_id=149300&bid=143811"
+        },
+        {
+          "name": "BuyerChangeDetailsReport_B-26-07_v2_Jun_8_26.pdf",
+          "docid": 1902422,
+          "owner_id": 149300,
+          "protected_download_url": "https://webprocure.proactiscloud.com/MainBidBoard?ac=4&docid=1902422&owner_id=149300&bid=143811"
+        },
+        {
+          "name": "VendorChangeDetailsReport_B-26-07_v2_Jun_8_26.pdf",
+          "docid": 1902423,
+          "owner_id": 149300,
+          "protected_download_url": "https://webprocure.proactiscloud.com/MainBidBoard?ac=4&docid=1902423&owner_id=149300&bid=143811"
+        }
+      ],
+      "mandatory_documents": [
+        {
+          "docid": 1896630,
+          "protected_download_url": "https://webprocure.proactiscloud.com/MainBidBoard?ac=4&docid=1896630&owner_id=149300&bid=143811"
+        }
+      ]
+    },
+
+bid_id
+bid_number
+title
+description
+status
+solicitation_type
+start_date
+open_date
+status_date
+owner_org
+owner_org_id
+creator_org
+contact_info
+contact_name
+contact_address
+contact_phone
+contact_email
+hasDocuments
+hasAddendumDocs
+public_detail_url
+summary_pdf_url
+bid_documents
+    name
+    docid
+    owner_id
+    protected_download_url
